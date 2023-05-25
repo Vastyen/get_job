@@ -191,3 +191,79 @@ Los repositorios públicos son una excelente manera de demostrar tus habilidades
   * Crea un portafolio o una sección dedicada: Diseña una sección en tu sitio web o crea un portafolio específico donde puedas presentar tus proyectos y trabajos realizados. Proporciona descripciones claras y concisas de cada uno, junto con capturas de pantalla, enlaces de demostración y detalles técnicos relevantes. Esto permitirá que los entrevistadores o potenciales empleadores puedan revisar y evaluar tu experiencia de manera rápida y eficiente.
 
 Al utilizar servicios de hosting y conectar tu trabajo con un dominio propio, estarás proporcionando una experiencia más profesional y accesible a quienes deseen ver tus desarrollos. Recuerda mantener tu contenido actualizado y relevante, y asegúrate de que tus aplicaciones o sitios web estén funcionando correctamente en todo momento. Esto aumentará tus posibilidades de impresionar a los entrevistadores y permitirá que tu trabajo se destaque ante posibles ofertas laborales.
+
+_____________________________________________________________________________________
+
+### Necesitas Aprender
+
+* Protocolo HTTP: El Protocolo de Transferencia de Hipertexto (HTTP) es un protocolo de comunicación utilizado para el intercambio de datos en la World Wide Web. Permite la solicitud y respuesta de recursos, como páginas web, imágenes y archivos, entre un cliente y un servidor.
+
+* Redux: Redux es una biblioteca de administración de estado para aplicaciones JavaScript. Proporciona un contenedor predecible y centralizado para el estado de una aplicación, lo que facilita el seguimiento de los cambios y la gestión del flujo de datos.
+
+* Caché: La caché es un mecanismo de almacenamiento temporal que guarda copias de datos o recursos para acceder a ellos de forma más rápida en futuras solicitudes. Al almacenar datos en la caché, se reduce la necesidad de acceder a fuentes de datos más lentas, como servidores, mejorando así el rendimiento y la eficiencia de las aplicaciones.
+
+* Redis: Redis es una base de datos en memoria de código abierto que se utiliza para almacenar y recuperar datos de forma rápida. Además de ser una base de datos, Redis también se utiliza como caché, cola de mensajes y almacén de estructuras de datos, como listas, conjuntos y mapas.
+
+* JWT: JSON Web Token (JWT) es un estándar abierto para la creación de tokens de acceso que se utilizan para autenticar y autorizar solicitudes en aplicaciones web y servicios. Los tokens JWT contienen información codificada en formato JSON y son firmados digitalmente para garantizar su integridad y autenticidad.
+
+* NPM: NPM (Node Package Manager) es el administrador de paquetes predeterminado para entornos de desarrollo basados en Node.js. Permite a los desarrolladores buscar, instalar, actualizar y administrar paquetes y dependencias de software de manera fácil y eficiente.
+
+* NVM: NVM (Node Version Manager) es una herramienta utilizada para administrar múltiples versiones de Node.js en un mismo sistema. Permite cambiar rápidamente entre versiones de Node.js y facilita la gestión de proyectos que requieren versiones específicas del entorno Node.js.
+
+* Trabajo en Equipo: El trabajo en equipo se refiere a la colaboración y cooperación de varias personas para lograr un objetivo común. Implica la comunicación efectiva, la coordinación de tareas y la distribución equitativa de responsabilidades, con el fin de maximizar la eficiencia y alcanzar mejores resultados.
+
+* Respeto: El respeto es una actitud fundamental en el trabajo en equipo y en cualquier relación humana. Implica reconocer y valorar los derechos, opiniones y diferencias de los demás, así como mantener una comunicación respetuosa, escuchar activamente y tratar a los demás con cortesía y consideración.
+
+* Formato de Commits: El formato de commits se refiere a las convenciones utilizadas al realizar cambios y registrarlos en el control de versiones de un proyecto. Esto puede incluir el uso de prefijos específicos, como "feat" para nuevas características, "fix" para correcciones de errores, y una descripción clara y concisa del cambio realizado.
+
+* Kanban: Kanban es una metodología de gestión visual utilizada para organizar y controlar el flujo de trabajo en proyectos. Se basa en la visualización de tareas en un tablero, donde cada tarea se representa con tarjetas y se mueve a través de columnas que representan diferentes etapas del proceso, desde la planificación hasta la finalización.
+
+* Estructura de Datos: La estructura de datos se refiere a la organización y almacenamiento de datos en una aplicación o sistema. Esto implica la elección de las estructuras más adecuadas, como matrices, listas enlazadas, árboles o grafos, para optimizar el acceso, búsqueda y manipulación de datos.
+
+* Análisis de Algoritmos: El análisis de algoritmos es el estudio de la eficiencia y rendimiento de los algoritmos. Implica analizar el tiempo y el espacio requeridos por un algoritmo en función del tamaño de entrada, y evaluar su complejidad para determinar su eficiencia en términos de recursos computacionales.
+
+* Programación Funcional: La programación funcional es un paradigma de programación que se basa en la evaluación de funciones matemáticas puras, evitando el estado mutable y los efectos secundarios. Se enfoca en la composición de funciones y la manipulación de datos inmutables para resolver problemas.
+
+* Programación Orientada a Objetos: La programación orientada a objetos (POO) es un paradigma de programación que se basa en la creación de objetos que contienen datos y métodos relacionados. Se centra en la encapsulación, la herencia y el polimorfismo, permitiendo la modularidad, reutilización y organización estructurada del código.
+
+* Programación Imperativa: La programación imperativa es un paradigma de programación en el que se describen los pasos o instrucciones detalladas para que una computadora las ejecute en secuencia. Se centra en cómo se deben realizar las tareas, utilizando variables, bucles y condicionales para controlar el flujo del programa.
+
+* Consultas a Bases de Datos: Las consultas a bases de datos son solicitudes o instrucciones enviadas a una base de datos para recuperar, actualizar, insertar o eliminar datos. Se utilizan lenguajes específicos, como SQL (Structured Query Language), para interactuar con bases de datos relacionales y realizar operaciones en los datos almacenados.
+
+* Bases de Datos Relacionales: Las bases de datos relacionales son sistemas de gestión de bases de datos que utilizan tablas y relaciones para almacenar y organizar datos. Utilizan un modelo relacional para representar la estructura de los datos y permiten establecer relaciones entre diferentes tablas mediante claves primarias y claves externas.
+
+* Bases de Datos No Relacionales: Las bases de datos no relacionales, también conocidas como bases de datos NoSQL, son sistemas de gestión de bases de datos que utilizan diferentes modelos de datos para almacenar y recuperar información. A diferencia de las bases de datos relacionales, no requieren un esquema fijo y son flexibles en cuanto a la estructura y el tipo de datos que pueden almacenar.
+
+* HTML: HTML (HyperText Markup Language) es el lenguaje de marcado utilizado para crear páginas web. Permite definir la estructura y el contenido de una página utilizando etiquetas y elementos que indican cómo se deben mostrar los diferentes elementos, como encabezados, párrafos, imágenes, enlaces, formularios, etc.
+
+* SCSS: SCSS (Sassy CSS) es una extensión del lenguaje CSS que añade características adicionales y mejoras. SCSS permite el uso de variables, anidamiento de selectores, mixins, funciones y otros constructores que facilitan la escritura y el mantenimiento de estilos CSS en proyectos web.
+
+### Deberías Aprender
+
+* Directus: Directus es un CMS (Sistema de Gestión de Contenidos) de código abierto que permite a los desarrolladores crear interfaces de administración personalizadas para sus bases de datos. Proporciona una capa de abstracción entre la base de datos y la interfaz de usuario, lo que permite a los usuarios administrar y editar contenido sin tener que interactuar directamente con la base de datos.
+
+* Rancher: Rancher es una plataforma de administración de contenedores que facilita la implementación y gestión de aplicaciones en entornos de contenedores. Permite a los usuarios gestionar clústeres de contenedores, orquestar la escalabilidad de las aplicaciones, monitorear y realizar un seguimiento de los recursos, y proporciona una interfaz gráfica intuitiva para administrar y controlar los contenedores.
+
+* Nexus: Nexus es una herramienta de gestión de artefactos utilizada en el desarrollo de software. Permite almacenar y administrar artefactos binarios, como bibliotecas, dependencias y componentes de software, y proporciona una forma eficiente de compartir, distribuir y reutilizar estos artefactos en proyectos de desarrollo de software.
+
+* Back-End con Python: Python es un lenguaje de programación versátil y ampliamente utilizado que es conocido por su simplicidad y legibilidad. En el contexto del desarrollo de back-end, Python se utiliza para construir la lógica y la funcionalidad del servidor de una aplicación web. Proporciona una amplia gama de bibliotecas y marcos populares, como Django y Flask, que simplifican el desarrollo y permiten crear aplicaciones web robustas y escalables.
+
+* React Native: React Native es un marco de desarrollo de aplicaciones móviles multiplataforma creado por Facebook. Permite a los desarrolladores construir aplicaciones móviles nativas utilizando JavaScript y React, lo que significa que se puede escribir código una vez y ejecutarlo en múltiples plataformas, como iOS y Android. React Native utiliza componentes reutilizables y ofrece un alto rendimiento al aprovechar las capacidades nativas del dispositivo.
+
+* Desarrollo de Aplicaciones Híbridas: El desarrollo de aplicaciones híbridas se refiere a la creación de aplicaciones que pueden ejecutarse en múltiples plataformas utilizando un único código base. Estas aplicaciones combinan elementos de aplicaciones web y aplicaciones nativas, permitiendo a los desarrolladores utilizar tecnologías web, como HTML, CSS y JavaScript, para crear una interfaz de usuario que se ejecuta dentro de un contenedor nativo. Algunos marcos populares para el desarrollo de aplicaciones híbridas son React Native, Ionic y Xamarin.
+
+* Authentication & Authorization: La autenticación y autorización son conceptos fundamentales en el desarrollo de aplicaciones web y móviles. La autenticación se refiere al proceso de verificar la identidad de un usuario, generalmente mediante el uso de credenciales, como un nombre de usuario y una contraseña. La autorización, por otro lado, se refiere al proceso de otorgar permisos y determinar qué acciones puede realizar un usuario una vez que está autenticado. Ambos conceptos son cruciales para garantizar la seguridad y el acceso controlado a los recursos y funcionalidades de una aplicación.
+
+* Firebase: Firebase es una plataforma de desarrollo de aplicaciones móviles y web desarrollada por Google. Proporciona una amplia gama
+
+ de servicios en la nube, como almacenamiento de datos en tiempo real, autenticación de usuarios, análisis, notificaciones push y más. Firebase facilita la creación de aplicaciones de alta calidad al ofrecer una infraestructura escalable y una variedad de herramientas y servicios listos para usar.
+
+* Back-End con Ruby on Rails: Ruby on Rails, comúnmente conocido como Rails, es un popular framework de desarrollo web escrito en el lenguaje de programación Ruby. Rails sigue el patrón de diseño MVC (Modelo-Vista-Controlador) y permite a los desarrolladores construir aplicaciones web de manera eficiente y rápida. Ruby on Rails se utiliza en el desarrollo de back-end para crear la lógica del servidor y gestionar la interacción con la base de datos, proporcionando una estructura sólida y convenciones claras para el desarrollo ágil de aplicaciones web.
+
+* C# y .NET: C# (C Sharp) es un lenguaje de programación orientado a objetos desarrollado por Microsoft. Es ampliamente utilizado en el desarrollo de aplicaciones de escritorio y aplicaciones web utilizando el framework .NET. C# proporciona características poderosas y una sintaxis elegante, y es compatible con una amplia variedad de aplicaciones en el ecosistema de Microsoft. .NET es un conjunto de tecnologías de desarrollo de software que incluye el Common Language Runtime (CLR) y una biblioteca de clases, y permite a los desarrolladores crear aplicaciones en varios lenguajes, incluido C#.
+
+* Linux: Es un sistema operativo de código abierto basado en el kernel de Linux. Es conocido por su estabilidad, seguridad y flexibilidad. Creado por Linus Torvalds en 1991, Linux se ha convertido en una opción popular en diversos entornos, desde servidores y supercomputadoras hasta dispositivos móviles y sistemas embebidos.
+
+Una de las principales ventajas de Linux es su naturaleza de código abierto, lo que permite a los usuarios acceder, modificar y distribuir el código fuente. Esto ha fomentado una comunidad de desarrolladores activa y una amplia gama de distribuciones, como Ubuntu y Fedora.
+
+Linux es altamente valorado en el ámbito de los servidores web y de bases de datos debido a su estabilidad y escalabilidad. También es compatible con una amplia variedad de aplicaciones de software de código abierto y ofrece una línea de comandos poderosa para una mayor flexibilidad y personalización. En resumen, Linux es un sistema operativo versátil y confiable utilizado en múltiples ámbitos de la informática.
