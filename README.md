@@ -190,60 +190,6 @@ La implementación exitosa de DevOps requiere de herramientas adecuadas, prácti
 
 _____________________________________________________________________________________
 
-### Perfil Laboral
-
-* Currículum Vitae: El currículum vitae es una herramienta crucial en la búsqueda de empleo, y es importante elaborarlo de manera precisa y profesional. A continuación, se presentan algunas recomendaciones para crear un currículum efectivo:
-
-  * Formato y precisión: Es recomendable utilizar formatos profesionales como LaTeX o PDF para garantizar que el currículum se visualice correctamente y conserve su formato original en diferentes dispositivos. Además, es esencial asegurarse de que la información proporcionada sea precisa y verificable.
-
-  * Relevancia de la información: Es importante incluir solo información relevante para el área o posición a la que te postulas. Evita agregar detalles personales innecesarios, como tu estado civil o residencia, a menos que sean requisitos específicos del empleador. Enfócate en resaltar tus habilidades, experiencia y logros relevantes para el puesto al que te postulas.
-
-  * Experiencia laboral pertinente: Selecciona cuidadosamente la experiencia laboral que incluirás en tu currículum. Prioriza aquellas experiencias que estén directamente relacionadas con el área en la que deseas trabajar. Destaca los logros y responsabilidades relevantes que demuestren tu experiencia y competencia en el campo.
-
-  * Profesionalismo: Mantén un enfoque profesional en tu currículum. Evita incluir información irrelevante o detalles personales que no estén directamente relacionados con tus habilidades y experiencia laboral. Concéntrate en presentar tus capacidades de manera clara y concisa, resaltando tus logros y contribuciones relevantes en roles anteriores.
-
-  * Adaptación al empleador: Personaliza tu currículum para cada empleador o posición a la que te postulas. Investiga sobre la empresa y el puesto, y adapta la información que presentas para destacar cómo tus habilidades y experiencia se alinean con los requisitos y las necesidades específicas de la organización.
-
-Recuerda que tu currículum vitae es tu carta de presentación ante los posibles empleadores. Asegúrate de que sea profesional, conciso y relevante, resaltando tus fortalezas y logros más importantes en relación con el puesto al que aspiras.
-
-* LinkedIn: Es una plataforma invaluable para los profesionales que buscan oportunidades laborales en el campo del desarrollo. Algunas recomendaciones para aprovechar al máximo esta red profesional:
-
-  * Perfil completo: Asegúrate de tener un perfil completo en LinkedIn. Esto incluye subir una imagen profesional tuya y proporcionar una descripción que resalte tus habilidades y experiencia en el desarrollo de software. Cuanto más completo sea tu perfil, más atractivo serás para los reclutadores y potenciales empleadores.
-
-  * Amplía tu red de contactos: Conéctate con profesionales del campo del desarrollo y otros relacionados en LinkedIn. Cuantas más conexiones tengas, más oportunidades tendrás de descubrir nuevas ofertas de trabajo y establecer contactos con reclutadores y profesionales influyentes en la industria. Participa en grupos relevantes y colabora en discusiones para expandir tu red aún más.
-
-  * Explora las ofertas de trabajo: LinkedIn es una fuente inagotable de oportunidades laborales. Dedica tiempo a revisar las ofertas de trabajo publicadas diariamente y examina los requisitos y descripciones detalladamente. Si una oferta encaja con tus habilidades y experiencia, postúlate y demuestra cómo puedes contribuir al puesto. Si no cumples con todos los requisitos, considera si aún puedes aprender y adquirir los conocimientos necesarios para complementar tus habilidades.
-
-  * Aprende y desarrolla habilidades: Utiliza LinkedIn para seguir aprendiendo y desarrollándote en el campo del desarrollo de software. Existen cursos, artículos y grupos de discusión que pueden ayudarte a mantenerte actualizado con las últimas tendencias y tecnologías. Invierte tiempo en adquirir nuevas habilidades y conocimientos para mejorar tus perspectivas laborales.
-
-LinkedIn ofrece una plataforma poderosa para establecer conexiones profesionales, explorar oportunidades laborales y continuar tu desarrollo en el campo del desarrollo de software. Aprovecha al máximo esta red y utiliza las herramientas y recursos disponibles para expandir tu red de contactos, descubrir ofertas de trabajo relevantes y seguir aprendiendo y creciendo en tu carrera profesional.
-
-* Repositorios Públicos: Son una herramienta invaluable para mostrar tus proyectos y trabajos de desarrollo de software. Algunas recomendaciones para aprovechar al máximo los repositorios públicos:
-
-  * Utiliza Servicios como GitHub: Sube tus repositorios a plataformas populares como GitHub, que te permiten almacenar y compartir tu código de manera pública. Estos servicios ofrecen una amplia gama de funcionalidades, como seguimiento de problemas, control de versiones y colaboración con otros desarrolladores.
-
-  * Destaca tus Proyectos: Asegúrate de que tus repositorios públicos reflejen tus mejores trabajos y desarrollos. Elige los proyectos más relevantes y significativos en los que hayas trabajado y súbelos a tus repositorios públicos. Esto le dará a los reclutadores y empleadores una idea clara de tus habilidades y experiencia en el desarrollo de software.
-
-  * Documenta y Organiza tu Código: Es importante que tus repositorios públicos estén bien documentados y organizados. Asegúrate de incluir archivos README que expliquen el propósito del proyecto, cómo ejecutarlo y cualquier otra información relevante. También puedes utilizar etiquetas y estructurar tu código en directorios para facilitar la navegación y comprensión por parte de los visitantes.
-
-  * Comparte tus Repositorios: Una vez que hayas subido tus repositorios públicos, compártelos en tu perfil de LinkedIn, en tu currículum vitae y en otras plataformas profesionales. Esto permitirá que los reclutadores y empleadores accedan fácilmente a tus proyectos y puedan evaluar tus habilidades y logros en el desarrollo de software.
-
-Los repositorios públicos son una excelente manera de demostrar tus habilidades y experiencia en el desarrollo de software. Asegúrate de mantenerlos actualizados y agregar nuevos proyectos a medida que progresas en tu carrera. Esto te ayudará a destacarte entre otros desarrolladores y aumentar tus posibilidades de conseguir oportunidades laborales emocionantes.
-
-* Despliega tus Aplicaciones: Para mostrar tus trabajos y desarrollos de manera efectiva, es recomendable utilizar servicios de hosting y conectar tu aplicación, servicios de aplicaciones o bases de datos a un dominio propio. Aquí algunas sugerencias para lograrlo:
-
-  * Elige un servicio de hosting confiable: Investiga y selecciona un servicio de hosting que se ajuste a tus necesidades. Asegúrate de que el proveedor tenga una buena reputación en términos de estabilidad, rendimiento y soporte técnico. Esto garantizará que tus aplicaciones o sitios web estén disponibles y funcionando correctamente para quienes deseen ver tu trabajo.
-
-  * Conecta un dominio personalizado: Registra un dominio propio que refleje tu marca personal o el nombre de tu proyecto. Configura la conexión entre el dominio y el servicio de hosting para que tu aplicación o sitio web sea accesible a través de una URL profesional y fácil de recordar.
-
-  * Despliega tus aplicaciones y proyectos: Utiliza los recursos proporcionados por el servicio de hosting para subir y desplegar tus aplicaciones o proyectos. Asegúrate de seguir las instrucciones y configuraciones adecuadas para que tus trabajos estén disponibles en línea.
-
-  * Crea un portafolio o una sección dedicada: Diseña una sección en tu sitio web o crea un portafolio específico donde puedas presentar tus proyectos y trabajos realizados. Proporciona descripciones claras y concisas de cada uno, junto con capturas de pantalla, enlaces de demostración y detalles técnicos relevantes. Esto permitirá que los entrevistadores o potenciales empleadores puedan revisar y evaluar tu experiencia de manera rápida y eficiente.
-
-Al utilizar servicios de hosting y conectar tu trabajo con un dominio propio, estarás proporcionando una experiencia más profesional y accesible a quienes deseen ver tus desarrollos. Recuerda mantener tu contenido actualizado y relevante, y asegúrate de que tus aplicaciones o sitios web estén funcionando correctamente en todo momento. Esto aumentará tus posibilidades de impresionar a los entrevistadores y permitirá que tu trabajo se destaque ante posibles ofertas laborales.
-
-_____________________________________________________________________________________
-
 ### Necesitas Aprender
 
 * Trabajo en Equipo: El trabajo en equipo se refiere a la colaboración y cooperación de varias personas para lograr un objetivo común. Implica la comunicación efectiva, la coordinación de tareas y la distribución equitativa de responsabilidades, con el fin de maximizar la eficiencia y alcanzar mejores resultados.
@@ -251,6 +197,8 @@ ________________________________________________________________________________
 * Respeto: El respeto es una actitud fundamental en el trabajo en equipo y en cualquier relación humana. Implica reconocer y valorar los derechos, opiniones y diferencias de los demás, así como mantener una comunicación respetuosa, escuchar activamente y tratar a los demás con cortesía y consideración.
 
 * Protocolo HTTP: El Protocolo de Transferencia de Hipertexto (HTTP) es un protocolo de comunicación utilizado para el intercambio de datos en la World Wide Web. Permite la solicitud y respuesta de recursos, como páginas web, imágenes y archivos, entre un cliente y un servidor.
+
+* Responsive: Es un término utilizado en el diseño web para describir la capacidad de un sitio web o una aplicación para adaptarse y responder de manera óptima a diferentes dispositivos y tamaños de pantalla. Un diseño responsive garantiza que el contenido y la disposición se ajusten automáticamente según el dispositivo en el que se esté visualizando, ya sea una computadora de escritorio, una tableta o un teléfono móvil. Esto permite una experiencia de usuario consistente y accesible, independientemente del dispositivo utilizado, mejorando la usabilidad y la legibilidad del contenido.
 
 * Redux: Redux es una biblioteca de administración de estado para aplicaciones JavaScript. Proporciona un contenedor predecible y centralizado para el estado de una aplicación, lo que facilita el seguimiento de los cambios y la gestión del flujo de datos.
 
@@ -356,7 +304,7 @@ Linux es altamente valorado en el ámbito de los servidores web y de bases de da
 
 _____________________________________________________________________________________
 
-### Otros Conceptos
+### Podrías Aprender
 
 * Vite: Vite es una herramienta de construcción y desarrollo rápida para aplicaciones web modernas. Proporciona un entorno de desarrollo altamente optimizado y permite una experiencia de desarrollo instantánea y eficiente utilizando la compilación en tiempo real. Vite es conocido por su velocidad de inicio y su capacidad para manejar proyectos grandes sin sacrificar el rendimiento.
 
@@ -377,6 +325,60 @@ ________________________________________________________________________________
 * Controllers: En el desarrollo de aplicaciones web, los "controllers" son componentes que se utilizan para manejar las solicitudes entrantes y coordinar las respuestas correspondientes. Los controllers reciben solicitudes HTTP, interactúan con los servicios y manipulan los datos necesarios para generar una respuesta adecuada.
 
 * Middleware: El "middleware" es un concepto utilizado en el desarrollo de software que se refiere a una capa de software que se coloca entre el cliente y el servidor para realizar tareas específicas. El middleware puede interceptar y procesar solicitudes, modificar datos, agregar funcionalidad adicional o realizar cualquier otra tarea necesaria antes de que la solicitud llegue al servidor o antes de que la respuesta se envíe al cliente.
+
+_____________________________________________________________________________________
+
+### Perfil Laboral
+
+* Currículum Vitae: El currículum vitae es una herramienta crucial en la búsqueda de empleo, y es importante elaborarlo de manera precisa y profesional. A continuación, se presentan algunas recomendaciones para crear un currículum efectivo:
+
+  * Formato y precisión: Es recomendable utilizar formatos profesionales como LaTeX o PDF para garantizar que el currículum se visualice correctamente y conserve su formato original en diferentes dispositivos. Además, es esencial asegurarse de que la información proporcionada sea precisa y verificable.
+
+  * Relevancia de la información: Es importante incluir solo información relevante para el área o posición a la que te postulas. Evita agregar detalles personales innecesarios, como tu estado civil o residencia, a menos que sean requisitos específicos del empleador. Enfócate en resaltar tus habilidades, experiencia y logros relevantes para el puesto al que te postulas.
+
+  * Experiencia laboral pertinente: Selecciona cuidadosamente la experiencia laboral que incluirás en tu currículum. Prioriza aquellas experiencias que estén directamente relacionadas con el área en la que deseas trabajar. Destaca los logros y responsabilidades relevantes que demuestren tu experiencia y competencia en el campo.
+
+  * Profesionalismo: Mantén un enfoque profesional en tu currículum. Evita incluir información irrelevante o detalles personales que no estén directamente relacionados con tus habilidades y experiencia laboral. Concéntrate en presentar tus capacidades de manera clara y concisa, resaltando tus logros y contribuciones relevantes en roles anteriores.
+
+  * Adaptación al empleador: Personaliza tu currículum para cada empleador o posición a la que te postulas. Investiga sobre la empresa y el puesto, y adapta la información que presentas para destacar cómo tus habilidades y experiencia se alinean con los requisitos y las necesidades específicas de la organización.
+
+Recuerda que tu currículum vitae es tu carta de presentación ante los posibles empleadores. Asegúrate de que sea profesional, conciso y relevante, resaltando tus fortalezas y logros más importantes en relación con el puesto al que aspiras.
+
+* LinkedIn: Es una plataforma invaluable para los profesionales que buscan oportunidades laborales en el campo del desarrollo. Algunas recomendaciones para aprovechar al máximo esta red profesional:
+
+  * Perfil completo: Asegúrate de tener un perfil completo en LinkedIn. Esto incluye subir una imagen profesional tuya y proporcionar una descripción que resalte tus habilidades y experiencia en el desarrollo de software. Cuanto más completo sea tu perfil, más atractivo serás para los reclutadores y potenciales empleadores.
+
+  * Amplía tu red de contactos: Conéctate con profesionales del campo del desarrollo y otros relacionados en LinkedIn. Cuantas más conexiones tengas, más oportunidades tendrás de descubrir nuevas ofertas de trabajo y establecer contactos con reclutadores y profesionales influyentes en la industria. Participa en grupos relevantes y colabora en discusiones para expandir tu red aún más.
+
+  * Explora las ofertas de trabajo: LinkedIn es una fuente inagotable de oportunidades laborales. Dedica tiempo a revisar las ofertas de trabajo publicadas diariamente y examina los requisitos y descripciones detalladamente. Si una oferta encaja con tus habilidades y experiencia, postúlate y demuestra cómo puedes contribuir al puesto. Si no cumples con todos los requisitos, considera si aún puedes aprender y adquirir los conocimientos necesarios para complementar tus habilidades.
+
+  * Aprende y desarrolla habilidades: Utiliza LinkedIn para seguir aprendiendo y desarrollándote en el campo del desarrollo de software. Existen cursos, artículos y grupos de discusión que pueden ayudarte a mantenerte actualizado con las últimas tendencias y tecnologías. Invierte tiempo en adquirir nuevas habilidades y conocimientos para mejorar tus perspectivas laborales.
+
+LinkedIn ofrece una plataforma poderosa para establecer conexiones profesionales, explorar oportunidades laborales y continuar tu desarrollo en el campo del desarrollo de software. Aprovecha al máximo esta red y utiliza las herramientas y recursos disponibles para expandir tu red de contactos, descubrir ofertas de trabajo relevantes y seguir aprendiendo y creciendo en tu carrera profesional.
+
+* Repositorios Públicos: Son una herramienta invaluable para mostrar tus proyectos y trabajos de desarrollo de software. Algunas recomendaciones para aprovechar al máximo los repositorios públicos:
+
+  * Utiliza Servicios como GitHub: Sube tus repositorios a plataformas populares como GitHub, que te permiten almacenar y compartir tu código de manera pública. Estos servicios ofrecen una amplia gama de funcionalidades, como seguimiento de problemas, control de versiones y colaboración con otros desarrolladores.
+
+  * Destaca tus Proyectos: Asegúrate de que tus repositorios públicos reflejen tus mejores trabajos y desarrollos. Elige los proyectos más relevantes y significativos en los que hayas trabajado y súbelos a tus repositorios públicos. Esto le dará a los reclutadores y empleadores una idea clara de tus habilidades y experiencia en el desarrollo de software.
+
+  * Documenta y Organiza tu Código: Es importante que tus repositorios públicos estén bien documentados y organizados. Asegúrate de incluir archivos README que expliquen el propósito del proyecto, cómo ejecutarlo y cualquier otra información relevante. También puedes utilizar etiquetas y estructurar tu código en directorios para facilitar la navegación y comprensión por parte de los visitantes.
+
+  * Comparte tus Repositorios: Una vez que hayas subido tus repositorios públicos, compártelos en tu perfil de LinkedIn, en tu currículum vitae y en otras plataformas profesionales. Esto permitirá que los reclutadores y empleadores accedan fácilmente a tus proyectos y puedan evaluar tus habilidades y logros en el desarrollo de software.
+
+Los repositorios públicos son una excelente manera de demostrar tus habilidades y experiencia en el desarrollo de software. Asegúrate de mantenerlos actualizados y agregar nuevos proyectos a medida que progresas en tu carrera. Esto te ayudará a destacarte entre otros desarrolladores y aumentar tus posibilidades de conseguir oportunidades laborales emocionantes.
+
+* Despliega tus Aplicaciones: Para mostrar tus trabajos y desarrollos de manera efectiva, es recomendable utilizar servicios de hosting y conectar tu aplicación, servicios de aplicaciones o bases de datos a un dominio propio. Aquí algunas sugerencias para lograrlo:
+
+  * Elige un servicio de hosting confiable: Investiga y selecciona un servicio de hosting que se ajuste a tus necesidades. Asegúrate de que el proveedor tenga una buena reputación en términos de estabilidad, rendimiento y soporte técnico. Esto garantizará que tus aplicaciones o sitios web estén disponibles y funcionando correctamente para quienes deseen ver tu trabajo.
+
+  * Conecta un dominio personalizado: Registra un dominio propio que refleje tu marca personal o el nombre de tu proyecto. Configura la conexión entre el dominio y el servicio de hosting para que tu aplicación o sitio web sea accesible a través de una URL profesional y fácil de recordar.
+
+  * Despliega tus aplicaciones y proyectos: Utiliza los recursos proporcionados por el servicio de hosting para subir y desplegar tus aplicaciones o proyectos. Asegúrate de seguir las instrucciones y configuraciones adecuadas para que tus trabajos estén disponibles en línea.
+
+  * Crea un portafolio o una sección dedicada: Diseña una sección en tu sitio web o crea un portafolio específico donde puedas presentar tus proyectos y trabajos realizados. Proporciona descripciones claras y concisas de cada uno, junto con capturas de pantalla, enlaces de demostración y detalles técnicos relevantes. Esto permitirá que los entrevistadores o potenciales empleadores puedan revisar y evaluar tu experiencia de manera rápida y eficiente.
+
+Al utilizar servicios de hosting y conectar tu trabajo con un dominio propio, estarás proporcionando una experiencia más profesional y accesible a quienes deseen ver tus desarrollos. Recuerda mantener tu contenido actualizado y relevante, y asegúrate de que tus aplicaciones o sitios web estén funcionando correctamente en todo momento. Esto aumentará tus posibilidades de impresionar a los entrevistadores y permitirá que tu trabajo se destaque ante posibles ofertas laborales.
 
 _____________________________________________________________________________________
 
@@ -420,3 +422,4 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
+Desarrollado por [@vastien](https://www.linkedin.com/in/vastien/) y por [Open IA](https://openai.com/)
