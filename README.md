@@ -152,6 +152,10 @@ En resumen, el backend es la parte de un sitio web o aplicación que maneja la l
 
 * Node.js: Node.js es un entorno de tiempo de ejecución de JavaScript basado en el motor V8 de Google Chrome. Permite a los desarrolladores ejecutar código JavaScript en el servidor, lo que lo hace adecuado para el desarrollo de aplicaciones del lado del servidor. Node.js utiliza un modelo de entrada/salida sin bloqueo y basado en eventos, lo que lo hace altamente eficiente y escalable. Es conocido por su capacidad para manejar grandes volúmenes de conexiones concurrentes y su enfoque en la creación de aplicaciones de alta velocidad y tiempo real. Además, Node.js cuenta con un ecosistema rico de paquetes y módulos, a través de su administrador de paquetes npm, que facilita la reutilización de código y acelera el desarrollo de aplicaciones.
 
+* Express: Express es un framework web rápido y minimalista para Node.js. Es ampliamente utilizado para crear aplicaciones web y APIs debido a su simplicidad y flexibilidad. Express proporciona una capa de abstracción sobre el servidor HTTP de Node.js, lo que facilita la definición de rutas, el manejo de solicitudes y respuestas, el middleware y otras funcionalidades comunes en el desarrollo web. Con Express, los desarrolladores pueden construir aplicaciones web de manera eficiente y escalable, aprovechando las numerosas extensiones y complementos disponibles en su ecosistema.
+
+* ORM: Un ORM (Object-Relational Mapping) es una técnica que permite mapear objetos en el código a tablas en una base de datos relacional. Proporciona una capa de abstracción que simplifica la interacción con la base de datos y elimina la necesidad de escribir consultas SQL manualmente. Un ORM se encarga de la traducción entre el modelo de datos en el código y la estructura de la base de datos, facilitando operaciones como la creación, lectura, actualización y eliminación de registros. Además, los ORM suelen proporcionar funcionalidades adicionales como validaciones, relaciones entre tablas y manejo de transacciones. Algunos ejemplos populares de ORM son Sequelize para JavaScript/Node.js y Hibernate para Java.
+
 * Arquitectura de Microservicios: La arquitectura de microservicios es un enfoque de diseño de software que consiste en construir una aplicación como un conjunto de servicios pequeños e independientes que se ejecutan de manera autónoma y se comunican entre sí a través de interfaces bien definidas. Cada servicio se enfoca en una única funcionalidad específica y puede ser desarrollado, implementado y escalado de forma independiente. La arquitectura de microservicios permite una mayor flexibilidad, modularidad y escalabilidad en comparación con los enfoques monolíticos tradicionales. También facilita la implementación continua, la recuperación rápida de errores y la adopción de diferentes tecnologías en cada servicio. Sin embargo, la arquitectura de microservicios también introduce desafíos adicionales, como la gestión de la comunicación entre los servicios y la coordinación de las transacciones distribuidas.
 
 _____________________________________________________________________________________
@@ -242,6 +246,10 @@ ________________________________________________________________________________
 
 ### Necesitas Aprender
 
+* Trabajo en Equipo: El trabajo en equipo se refiere a la colaboración y cooperación de varias personas para lograr un objetivo común. Implica la comunicación efectiva, la coordinación de tareas y la distribución equitativa de responsabilidades, con el fin de maximizar la eficiencia y alcanzar mejores resultados.
+
+* Respeto: El respeto es una actitud fundamental en el trabajo en equipo y en cualquier relación humana. Implica reconocer y valorar los derechos, opiniones y diferencias de los demás, así como mantener una comunicación respetuosa, escuchar activamente y tratar a los demás con cortesía y consideración.
+
 * Protocolo HTTP: El Protocolo de Transferencia de Hipertexto (HTTP) es un protocolo de comunicación utilizado para el intercambio de datos en la World Wide Web. Permite la solicitud y respuesta de recursos, como páginas web, imágenes y archivos, entre un cliente y un servidor.
 
 * Redux: Redux es una biblioteca de administración de estado para aplicaciones JavaScript. Proporciona un contenedor predecible y centralizado para el estado de una aplicación, lo que facilita el seguimiento de los cambios y la gestión del flujo de datos.
@@ -255,10 +263,6 @@ ________________________________________________________________________________
 * NPM: NPM (Node Package Manager) es el administrador de paquetes predeterminado para entornos de desarrollo basados en Node.js. Permite a los desarrolladores buscar, instalar, actualizar y administrar paquetes y dependencias de software de manera fácil y eficiente.
 
 * NVM: NVM (Node Version Manager) es una herramienta utilizada para administrar múltiples versiones de Node.js en un mismo sistema. Permite cambiar rápidamente entre versiones de Node.js y facilita la gestión de proyectos que requieren versiones específicas del entorno Node.js.
-
-* Trabajo en Equipo: El trabajo en equipo se refiere a la colaboración y cooperación de varias personas para lograr un objetivo común. Implica la comunicación efectiva, la coordinación de tareas y la distribución equitativa de responsabilidades, con el fin de maximizar la eficiencia y alcanzar mejores resultados.
-
-* Respeto: El respeto es una actitud fundamental en el trabajo en equipo y en cualquier relación humana. Implica reconocer y valorar los derechos, opiniones y diferencias de los demás, así como mantener una comunicación respetuosa, escuchar activamente y tratar a los demás con cortesía y consideración.
 
 * Formato de Commits: El formato de commits se refiere a las convenciones utilizadas al realizar cambios y registrarlos en el control de versiones de un proyecto. Esto puede incluir el uso de prefijos específicos, como "feat" para nuevas características, "fix" para correcciones de errores, y una descripción clara y concisa del cambio realizado.
 
@@ -283,6 +287,24 @@ ________________________________________________________________________________
 * HTML: HTML (HyperText Markup Language) es el lenguaje de marcado utilizado para crear páginas web. Permite definir la estructura y el contenido de una página utilizando etiquetas y elementos que indican cómo se deben mostrar los diferentes elementos, como encabezados, párrafos, imágenes, enlaces, formularios, etc.
 
 * SCSS: SCSS (Sassy CSS) es una extensión del lenguaje CSS que añade características adicionales y mejoras. SCSS permite el uso de variables, anidamiento de selectores, mixins, funciones y otros constructores que facilitan la escritura y el mantenimiento de estilos CSS en proyectos web.
+
+* JPA: JPA (Java Persistence API) es una especificación de Java que proporciona un conjunto de interfaces y anotaciones para mapear objetos Java a tablas en una base de datos relacional. JPA simplifica la interacción con la base de datos al permitir el uso de objetos y consultas orientadas a objetos en lugar de escribir consultas SQL directamente. Es una parte integral de la plataforma Java EE y es ampliamente utilizado en aplicaciones Java para el acceso y manejo de datos persistentes.
+
+* Lombok: Lombok es una biblioteca para Java que ayuda a reducir la cantidad de código repetitivo y tedioso que se necesita escribir. Proporciona anotaciones que generan automáticamente métodos, constructores, getters, setters y otros bloques de código comunes. Con Lombok, los desarrolladores pueden simplificar y acelerar el desarrollo de aplicaciones Java al eliminar la necesidad de escribir código boilerplate repetitivo.
+
+* JDK: JDK (Java Development Kit) es un conjunto de herramientas de desarrollo para la plataforma Java. Incluye el compilador Java, bibliotecas de clases, herramientas de depuración y otras utilidades necesarias para desarrollar aplicaciones Java. El JDK también proporciona la máquina virtual Java (JVM) que permite ejecutar aplicaciones Java en diferentes sistemas operativos.
+
+* Gradle: Gradle es una herramienta de automatización de construcción y gestión de dependencias utilizada principalmente en el desarrollo de aplicaciones Java. Permite definir y configurar el proceso de construcción de una manera flexible y eficiente, utilizando un lenguaje de dominio específico (DSL) llamado Groovy. Gradle también maneja la resolución y descarga de dependencias de forma automática, lo que facilita la gestión de las bibliotecas utilizadas en un proyecto.
+
+* Maven: Maven es otra herramienta de gestión de proyectos y automatización de construcción ampliamente utilizada en el desarrollo de aplicaciones Java. Proporciona un enfoque basado en configuración por convención para la construcción de proyectos y la gestión de dependencias. Maven utiliza archivos de configuración XML llamados "pom.xml" para definir la estructura del proyecto, las dependencias y los pasos de construcción necesarios. Además, Maven ofrece una amplia gama de complementos y características que facilitan el desarrollo y la administración de proyectos Java.
+
+* Vuetify: Vuetify es un framework de componentes de interfaz de usuario (UI) para Vue.js, un popular framework de JavaScript para la construcción de aplicaciones de una sola página. Vuetify proporciona una amplia variedad de componentes de UI predefinidos y estilizados, como botones, formularios, barras de navegación y tablas, que se pueden utilizar para crear interfaces de usuario atractivas y responsivas de manera rápida y sencilla.
+
+* Storybook: Storybook es una herramienta de desarrollo que permite construir y visualizar componentes de interfaz de usuario de forma aislada. Con Storybook, los desarrolladores pueden crear una biblioteca de componentes interactivos y visualizarlos en diferentes estados y configuraciones. Esto facilita el desarrollo y la depuración de componentes individuales antes de integrarlos en una aplicación completa, lo que ayuda a mejorar la calidad y la eficiencia del desarrollo.
+
+* Tailwind: Tailwind CSS es un framework de CSS utilitario que proporciona un conjunto de clases predefinidas que se pueden utilizar directamente en el HTML para diseñar y estilizar una interfaz de usuario. A diferencia de otros frameworks CSS que se basan en estilos predefinidos, Tailwind permite una mayor flexibilidad y personalización al proporcionar clases que representan propiedades CSS individuales. Esto facilita la creación de diseños únicos y personalizados sin necesidad de escribir CSS adicional.
+
+* Bootstrap: Bootstrap es un framework de desarrollo web popular y ampliamente utilizado que proporciona una colección de componentes y estilos predefinidos para la creación de sitios web y aplicaciones responsivas. Bootstrap utiliza HTML, CSS y JavaScript para ofrecer un conjunto de componentes reutilizables, como botones, formularios, barras de navegación y cuadros de diálogo, que facilitan la creación de interfaces de usuario atractivas y compatibles con múltiples dispositivos. Además, Bootstrap también ofrece una amplia gama de utilidades y clases de CSS que ayudan en el diseño y la estructura de la página.
 
 * Local Storage: Es una funcionalidad incorporada en los navegadores web que permite a las aplicaciones web almacenar datos de manera persistente en el dispositivo del usuario. Proporciona un espacio de almacenamiento local donde se pueden guardar pares de clave-valor, lo que resulta útil para guardar configuraciones, preferencias de usuario y datos temporales. Los datos almacenados en Local Storage permanecen disponibles incluso después de cerrar el navegador, lo que facilita la recuperación de información en futuras visitas. Es accesible mediante JavaScript y está limitado al dominio de la aplicación web, brindando seguridad y privacidad. En resumen, Local Storage es una herramienta poderosa para almacenar datos de forma persistente en aplicaciones web, mejorando la experiencia del usuario y permitiendo una personalización eficiente.
 
@@ -327,6 +349,17 @@ Linux es altamente valorado en el ámbito de los servidores web y de bases de da
 
 _____________________________________________________________________________________
 
+### Otros Conceptos
+
+* Vite
+* Nest.js
+* Next.js
+* Rollup.js
+
+
+
+_____________________________________________________________________________________
+
 ### Proceso de Selección
 
 Dar una buena entrevista en el área de desarrollo requiere preparación y enfoque. Algunos consejos para ayudarte a tener una entrevista exitosa:
@@ -353,4 +386,15 @@ ________________________________________________________________________________
 
 El campo del desarrollo de software ofrece un mundo de oportunidades, pero alcanzar el éxito requiere más que simplemente adquirir conocimientos teóricos. Se necesita compromiso, práctica constante y una actitud de aprendizaje continuo. Es esencial mantenerse actualizado en un campo en constante evolución y estar dispuesto a explorar nuevas tecnologías y enfoques. La dedicación y la experiencia práctica son clave para destacar en el mercado laboral y en los procesos de selección. Aprovecha las oportunidades de aprendizaje, trabaja en proyectos reales y nunca dejes de mejorar tus habilidades. Ser un buen desarrollador implica ir más allá de la teoría y estar dispuesto a enfrentar desafíos, aprender de tus errores y crecer constantemente. Con la combinación adecuada de conocimiento, experiencia y actitud, puedes prosperar en el campo del desarrollo de software y alcanzar tus metas profesionales.
 
+_____________________________________________________________________________________
+
+### Enlaces de Interés
+
+[https://roadmap.sh/](Roadmap)
+[https://www.conventionalcommits.org/en/v1.0.0/](Conventional Commits)
+[https://spring.io/](Spring.io)
+[https://nodejs.org](Node.js)
+[https://react.dev/](Spring.io)
+[https://vuejs.org/](Vue.js)
+[https://angular.io/](Angular)
 
