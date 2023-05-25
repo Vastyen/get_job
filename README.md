@@ -120,7 +120,7 @@ DevOps es una metodología y una cultura que busca la integración y colaboraci�
 
 La filosofía de DevOps se centra en los siguientes principios:
 
-** Colaboración: Los equipos de desarrollo y operaciones trabajan juntos desde el inicio del proceso de desarrollo hasta la entrega del software. Comparten objetivos comunes y se comunican de manera continua para lograr un mejor entendimiento y una toma de decisiones más eficiente.
+1. Colaboración: Los equipos de desarrollo y operaciones trabajan juntos desde el inicio del proceso de desarrollo hasta la entrega del software. Comparten objetivos comunes y se comunican de manera continua para lograr un mejor entendimiento y una toma de decisiones más eficiente.
 
 2. Automatización: Se busca la automatización de las tareas repetitivas y propensas a errores a través del uso de herramientas y tecnologías. Esto incluye la automatización de la compilación, las pruebas, el despliegue y el monitoreo de aplicaciones, lo que permite una entrega más rápida y confiable del software.
 
@@ -172,12 +172,24 @@ LinkedIn ofrece una plataforma poderosa para establecer conexiones profesionales
 
 * Repositorios Públicos: Son una herramienta invaluable para mostrar tus proyectos y trabajos de desarrollo de software. Algunas recomendaciones para aprovechar al máximo los repositorios públicos:
 
-1. Utiliza servicios como GitHub: Sube tus repositorios a plataformas populares como GitHub, que te permiten almacenar y compartir tu código de manera pública. Estos servicios ofrecen una amplia gama de funcionalidades, como seguimiento de problemas, control de versiones y colaboración con otros desarrolladores.
+1. Utiliza Servicios como GitHub: Sube tus repositorios a plataformas populares como GitHub, que te permiten almacenar y compartir tu código de manera pública. Estos servicios ofrecen una amplia gama de funcionalidades, como seguimiento de problemas, control de versiones y colaboración con otros desarrolladores.
 
-2. Destaca tus proyectos: Asegúrate de que tus repositorios públicos reflejen tus mejores trabajos y desarrollos. Elige los proyectos más relevantes y significativos en los que hayas trabajado y súbelos a tus repositorios públicos. Esto le dará a los reclutadores y empleadores una idea clara de tus habilidades y experiencia en el desarrollo de software.
+2. Destaca tus Proyectos: Asegúrate de que tus repositorios públicos reflejen tus mejores trabajos y desarrollos. Elige los proyectos más relevantes y significativos en los que hayas trabajado y súbelos a tus repositorios públicos. Esto le dará a los reclutadores y empleadores una idea clara de tus habilidades y experiencia en el desarrollo de software.
 
-3. Documenta y organiza tu código: Es importante que tus repositorios públicos estén bien documentados y organizados. Asegúrate de incluir archivos README que expliquen el propósito del proyecto, cómo ejecutarlo y cualquier otra información relevante. También puedes utilizar etiquetas y estructurar tu código en directorios para facilitar la navegación y comprensión por parte de los visitantes.
+3. Documenta y Organiza tu Código: Es importante que tus repositorios públicos estén bien documentados y organizados. Asegúrate de incluir archivos README que expliquen el propósito del proyecto, cómo ejecutarlo y cualquier otra información relevante. También puedes utilizar etiquetas y estructurar tu código en directorios para facilitar la navegación y comprensión por parte de los visitantes.
 
-4. Comparte tus repositorios: Una vez que hayas subido tus repositorios públicos, compártelos en tu perfil de LinkedIn, en tu currículum vitae y en otras plataformas profesionales. Esto permitirá que los reclutadores y empleadores accedan fácilmente a tus proyectos y puedan evaluar tus habilidades y logros en el desarrollo de software.
+4. Comparte tus Repositorios: Una vez que hayas subido tus repositorios públicos, compártelos en tu perfil de LinkedIn, en tu currículum vitae y en otras plataformas profesionales. Esto permitirá que los reclutadores y empleadores accedan fácilmente a tus proyectos y puedan evaluar tus habilidades y logros en el desarrollo de software.
 
 Los repositorios públicos son una excelente manera de demostrar tus habilidades y experiencia en el desarrollo de software. Asegúrate de mantenerlos actualizados y agregar nuevos proyectos a medida que progresas en tu carrera. Esto te ayudará a destacarte entre otros desarrolladores y aumentar tus posibilidades de conseguir oportunidades laborales emocionantes.
+
+* Despliega tus Aplicaciones: Para mostrar tus trabajos y desarrollos de manera efectiva, es recomendable utilizar servicios de hosting y conectar tu aplicación, servicios de aplicaciones o bases de datos a un dominio propio. Aquí algunas sugerencias para lograrlo:
+
+1. Elige un servicio de hosting confiable: Investiga y selecciona un servicio de hosting que se ajuste a tus necesidades. Asegúrate de que el proveedor tenga una buena reputación en términos de estabilidad, rendimiento y soporte técnico. Esto garantizará que tus aplicaciones o sitios web estén disponibles y funcionando correctamente para quienes deseen ver tu trabajo.
+
+2. Conecta un dominio personalizado: Registra un dominio propio que refleje tu marca personal o el nombre de tu proyecto. Configura la conexión entre el dominio y el servicio de hosting para que tu aplicación o sitio web sea accesible a través de una URL profesional y fácil de recordar.
+
+3. Despliega tus aplicaciones y proyectos: Utiliza los recursos proporcionados por el servicio de hosting para subir y desplegar tus aplicaciones o proyectos. Asegúrate de seguir las instrucciones y configuraciones adecuadas para que tus trabajos estén disponibles en línea.
+
+4. Crea un portafolio o una sección dedicada: Diseña una sección en tu sitio web o crea un portafolio específico donde puedas presentar tus proyectos y trabajos realizados. Proporciona descripciones claras y concisas de cada uno, junto con capturas de pantalla, enlaces de demostración y detalles técnicos relevantes. Esto permitirá que los entrevistadores o potenciales empleadores puedan revisar y evaluar tu experiencia de manera rápida y eficiente.
+
+Al utilizar servicios de hosting y conectar tu trabajo con un dominio propio, estarás proporcionando una experiencia más profesional y accesible a quienes deseen ver tus desarrollos. Recuerda mantener tu contenido actualizado y relevante, y asegúrate de que tus aplicaciones o sitios web estén funcionando correctamente en todo momento. Esto aumentará tus posibilidades de impresionar a los entrevistadores y permitirá que tu trabajo se destaque ante posibles ofertas laborales.
