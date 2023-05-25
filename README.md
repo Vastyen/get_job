@@ -120,7 +120,7 @@ DevOps es una metodología y una cultura que busca la integración y colaboraci�
 
 La filosofía de DevOps se centra en los siguientes principios:
 
-1. Colaboración: Los equipos de desarrollo y operaciones trabajan juntos desde el inicio del proceso de desarrollo hasta la entrega del software. Comparten objetivos comunes y se comunican de manera continua para lograr un mejor entendimiento y una toma de decisiones más eficiente.
+** Colaboración: Los equipos de desarrollo y operaciones trabajan juntos desde el inicio del proceso de desarrollo hasta la entrega del software. Comparten objetivos comunes y se comunican de manera continua para lograr un mejor entendimiento y una toma de decisiones más eficiente.
 
 2. Automatización: Se busca la automatización de las tareas repetitivas y propensas a errores a través del uso de herramientas y tecnologías. Esto incluye la automatización de la compilación, las pruebas, el despliegue y el monitoreo de aplicaciones, lo que permite una entrega más rápida y confiable del software.
 
