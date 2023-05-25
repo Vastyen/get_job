@@ -318,9 +318,14 @@ ________________________________________________________________________________
 
 * Casos de Uso: Los Casos de Uso son una técnica utilizada en el análisis y diseño de sistemas para capturar y describir las interacciones entre los actores (usuarios o sistemas externos) y el sistema en sí. Los Casos de Uso se representan en forma de escenarios, donde se describe cómo un actor interactúa con el sistema para lograr un objetivo específico. Proporcionan una visión clara de cómo se utilizará el sistema en situaciones reales y ayudan a definir los requisitos funcionales del sistema. Los Casos de Uso son una herramienta valiosa para la comunicación entre los diferentes stakeholders y para guiar el desarrollo del software de manera orientada a los objetivos y necesidades de los usuarios.
 
+* React Router: Es una biblioteca de enrutamiento para aplicaciones de React que permite la navegación entre diferentes componentes y páginas. Proporciona un conjunto de componentes y utilidades que permiten definir rutas y asociarlas con componentes específicos para que se muestren cuando se accede a una URL en particular. React Router maneja la actualización del enrutamiento de forma eficiente, evitando la recarga de la página completa. Con React Router, los desarrolladores pueden crear aplicaciones de una sola página (SPA) con una navegación fluida y una experiencia de usuario interactiva.
+
+* Enrutador de Node.js: Es una herramienta esencial para construir aplicaciones web en Node.js. Es responsable de recibir las solicitudes HTTP entrantes y dirigirlas a las rutas y controladores correspondientes en el servidor. Utilizando bibliotecas populares como Express.js o Koa.js, el enrutador permite definir de manera sencilla las rutas, manejar parámetros de URL y enviar respuestas al cliente. Esta funcionalidad estructurada y flexible facilita la construcción de aplicaciones web escalables y la implementación de API RESTful, optimizando el manejo de solicitudes y respuestas en una aplicación Node.js.
 _____________________________________________________________________________________
 
 ### Deberías Aprender
+
+* Back-End for Front-End: "Backend For Frontend" (Backend para el Frontend), es un patrón de arquitectura que propone desarrollar un backend dedicado y adaptado a las necesidades de un frontend o interfaz de usuario específica. En lugar de tener un único backend que sirve a todas las interfaces, el BFF permite optimizar el rendimiento, la escalabilidad y la experiencia del usuario al diseñar un backend personalizado para cada frontend. Actuando como una capa intermedia, el BFF coordina y orquesta las solicitudes y respuestas entre el frontend y los servicios o API externos, simplificando la comunicación y facilitando la implementación de características específicas del frontend. En resumen, el BFF mejora la eficiencia y la flexibilidad en el desarrollo de aplicaciones al proporcionar un backend adaptado a cada frontend.
 
 * Payload: Son los datos o información útil transportada por un mensaje, paquete o solicitud. Es la parte fundamental de un mensaje que contiene la carga útil real, como los datos de una transacción, el contenido de un correo electrónico o los parámetros de una solicitud HTTP. El payload es la información que se envía o se recibe y es procesada por la aplicación o sistema destino. Es importante distinguirlo de la información adicional, como encabezados o metadatos, que acompañan al payload pero no forman parte de la información útil transmitida.
 * Directus: Directus es un CMS (Sistema de Gestión de Contenidos) de código abierto que permite a los desarrolladores crear interfaces de administración personalizadas para sus bases de datos. Proporciona una capa de abstracción entre la base de datos y la interfaz de usuario, lo que permite a los usuarios administrar y editar contenido sin tener que interactuar directamente con la base de datos.
@@ -332,6 +337,8 @@ ________________________________________________________________________________
 * Back-End con Python: Python es un lenguaje de programación versátil y ampliamente utilizado que es conocido por su simplicidad y legibilidad. En el contexto del desarrollo de back-end, Python se utiliza para construir la lógica y la funcionalidad del servidor de una aplicación web. Proporciona una amplia gama de bibliotecas y marcos populares, como Django y Flask, que simplifican el desarrollo y permiten crear aplicaciones web robustas y escalables.
 
 * React Native: React Native es un marco de desarrollo de aplicaciones móviles multiplataforma creado por Facebook. Permite a los desarrolladores construir aplicaciones móviles nativas utilizando JavaScript y React, lo que significa que se puede escribir código una vez y ejecutarlo en múltiples plataformas, como iOS y Android. React Native utiliza componentes reutilizables y ofrece un alto rendimiento al aprovechar las capacidades nativas del dispositivo.
+
+* TypeScript: Es un lenguaje de programación de código abierto que se basa en JavaScript. Añade características adicionales al JavaScript estándar, como la tipificación estática, que permite declarar y verificar los tipos de datos durante el desarrollo. TypeScript es altamente compatible con JavaScript y puede ser utilizado en proyectos existentes sin necesidad de realizar cambios significativos. La principal ventaja de TypeScript es su capacidad para detectar errores durante el desarrollo mediante el análisis estático de tipos. Al definir y especificar los tipos de datos, se pueden identificar errores comunes y mejorar la calidad del código. TypeScript también ofrece características avanzadas como clases, herencia, interfaces y módulos, lo que facilita la escritura de código más estructurado y mantenible.
 
 * Desarrollo de Aplicaciones Híbridas: El desarrollo de aplicaciones híbridas se refiere a la creación de aplicaciones que pueden ejecutarse en múltiples plataformas utilizando un único código base. Estas aplicaciones combinan elementos de aplicaciones web y aplicaciones nativas, permitiendo a los desarrolladores utilizar tecnologías web, como HTML, CSS y JavaScript, para crear una interfaz de usuario que se ejecuta dentro de un contenedor nativo. Algunos marcos populares para el desarrollo de aplicaciones híbridas son React Native, Ionic y Xamarin.
 
@@ -351,12 +358,25 @@ ________________________________________________________________________________
 
 ### Otros Conceptos
 
-* Vite
-* Nest.js
-* Next.js
-* Rollup.js
+* Vite: Vite es una herramienta de construcción y desarrollo rápida para aplicaciones web modernas. Proporciona un entorno de desarrollo altamente optimizado y permite una experiencia de desarrollo instantánea y eficiente utilizando la compilación en tiempo real. Vite es conocido por su velocidad de inicio y su capacidad para manejar proyectos grandes sin sacrificar el rendimiento.
 
+* Nest.js: Nest.js es un framework de desarrollo de aplicaciones del lado del servidor basado en TypeScript. Está diseñado para construir aplicaciones escalables y eficientes utilizando el patrón de arquitectura de servidor orientado a objetos. Nest.js combina conceptos de programación orientada a objetos, programación funcional y programación reactiva para ofrecer una solución integral para el desarrollo de servidores robustos.
 
+* Next.js: Next.js es un framework de React utilizado para crear aplicaciones web del lado del servidor (SSR) y aplicaciones de una sola página (SPA). Ofrece renderizado del lado del servidor (SSR) y renderizado del lado del cliente (CSR), lo que permite una mejor carga inicial, una navegación rápida y una experiencia de usuario optimizada. Next.js también proporciona características como enrutamiento automático, pre-renderizado estático y soporte para API.
+
+* Rollup.js: Rollup.js es un bundler (empaquetador) de JavaScript que se utiliza para combinar y empacar módulos de código en un único archivo optimizado para su implementación en un navegador. A diferencia de otros bundlers como Webpack, Rollup.js se centra en la creación de bibliotecas o módulos independientes, generando un resultado más ligero y optimizado.
+
+* Path: En el contexto del desarrollo de software, los "paths" se refieren a las rutas o ubicaciones de archivos en un sistema de archivos. Los paths son utilizados para identificar y acceder a archivos o directorios específicos en un sistema. Se especifican utilizando una combinación de carpetas y nombres de archivos que conforman una ruta única.
+
+* Endpoint: En el contexto de las aplicaciones web y las APIs, los "endpoints" se refieren a las URL o rutas específicas a las que se puede acceder en un servidor para realizar operaciones o recuperar datos. Cada endpoint se asocia con una acción o funcionalidad particular, y al acceder a un endpoint a través de una solicitud HTTP, se realiza la operación correspondiente en el servidor.
+
+* Adapter: En el desarrollo de software, un "adapter" es un patrón de diseño que permite la interoperabilidad entre diferentes interfaces o componentes. Actúa como un puente entre dos interfaces incompatibles, permitiendo que trabajen juntas sin necesidad de modificar el código fuente original. Los adapters son útiles cuando se necesita integrar sistemas o componentes existentes en un nuevo entorno o contexto.
+
+* Services: En el contexto del desarrollo de software, los "services" son componentes o clases que encapsulan la lógica de negocio y se utilizan para realizar operaciones específicas. Los servicios pueden realizar tareas como el acceso a bases de datos, la comunicación con APIs externas, el procesamiento de datos o cualquier otra funcionalidad relacionada con la lógica de negocio de una aplicación.
+
+* Controllers: En el desarrollo de aplicaciones web, los "controllers" son componentes que se utilizan para manejar las solicitudes entrantes y coordinar las respuestas correspondientes. Los controllers reciben solicitudes HTTP, interactúan con los servicios y manipulan los datos necesarios para generar una respuesta adecuada.
+
+* Middleware: El "middleware" es un concepto utilizado en el desarrollo de software que se refiere a una capa de software que se coloca entre el cliente y el servidor para realizar tareas específicas. El middleware puede interceptar y procesar solicitudes, modificar datos, agregar funcionalidad adicional o realizar cualquier otra tarea necesaria antes de que la solicitud llegue al servidor o antes de que la respuesta se envíe al cliente.
 
 _____________________________________________________________________________________
 
@@ -390,11 +410,11 @@ ________________________________________________________________________________
 
 ### Enlaces de Interés
 
-[https://roadmap.sh/](Roadmap)
-[https://www.conventionalcommits.org/en/v1.0.0/](Conventional Commits)
-[https://spring.io/](Spring.io)
-[https://nodejs.org](Node.js)
-[https://react.dev/](Spring.io)
-[https://vuejs.org/](Vue.js)
-[https://angular.io/](Angular)
+(https://roadmap.sh/)[Developer Roadmaps]
+(https://www.conventionalcommits.org/en/v1.0.0/)[Conventional Commits]
+(https://spring.io/)[Spring.io]
+(https://nodejs.org)[Node.js]
+(https://react.dev/)[Spring.io]
+(https://vuejs.org/)[Vue.js]
+(https://angular.io/)[Angular]
 
