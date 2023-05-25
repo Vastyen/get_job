@@ -22,13 +22,13 @@ La metodología ágil es un enfoque de gestión de proyectos y desarrollo de sof
 
 Los principios fundamentales de la metodología ágil se establecen en el Manifiesto Ágil, que destaca los siguientes valores:
 
-1. Individuos e interacciones sobre procesos y herramientas: El enfoque ágil valora la comunicación y la colaboración efectiva entre las personas involucradas en el proyecto. Se enfoca en construir relaciones sólidas y promover la interacción directa para lograr resultados exitosos.
+  * Individuos e interacciones sobre procesos y herramientas: El enfoque ágil valora la comunicación y la colaboración efectiva entre las personas involucradas en el proyecto. Se enfoca en construir relaciones sólidas y promover la interacción directa para lograr resultados exitosos.
 
-2. Software funcionando sobre documentación extensiva: La metodología ágil se centra en la entrega de software funcional y de calidad de manera frecuente. En lugar de centrarse en documentación detallada, se enfoca en la construcción de soluciones concretas que se pueden probar y validar rápidamente.
+  * Software funcionando sobre documentación extensiva: La metodología ágil se centra en la entrega de software funcional y de calidad de manera frecuente. En lugar de centrarse en documentación detallada, se enfoca en la construcción de soluciones concretas que se pueden probar y validar rápidamente.
 
-3. Colaboración con el cliente sobre negociación contractual: La participación y la colaboración continua con el cliente o los usuarios finales son fundamentales en la metodología ágil. Se busca obtener retroalimentación constante y ajustar el enfoque del proyecto según las necesidades y expectativas cambiantes.
+  * Colaboración con el cliente sobre negociación contractual: La participación y la colaboración continua con el cliente o los usuarios finales son fundamentales en la metodología ágil. Se busca obtener retroalimentación constante y ajustar el enfoque del proyecto según las necesidades y expectativas cambiantes.
 
-4. Responder al cambio sobre seguir un plan: La metodología ágil reconoce que los requisitos y las prioridades pueden cambiar a lo largo del proyecto. Se adapta y ajusta de manera flexible para responder a los cambios y maximizar el valor entregado, en lugar de adherirse rígidamente a un plan inicial.
+  * Responder al cambio sobre seguir un plan: La metodología ágil reconoce que los requisitos y las prioridades pueden cambiar a lo largo del proyecto. Se adapta y ajusta de manera flexible para responder a los cambios y maximizar el valor entregado, en lugar de adherirse rígidamente a un plan inicial.
 
 Para implementar la metodología ágil, se utilizan marcos de trabajo como Scrum, Kanban o Extreme Programming (XP). Estos marcos proporcionan estructuras y prácticas específicas para la gestión del trabajo, la planificación de sprints, la asignación de tareas y la colaboración en equipo.
 
@@ -116,19 +116,19 @@ En resumen, el backend es la parte de un sitio web o aplicación que maneja la l
 
 ### DevOps
 
-DevOps es una metodología y una cultura que busca la integración y colaboración estrecha entre los equipos de desarrollo de software (Dev) y los equipos de operaciones (Ops) con el objetivo de acelerar la entrega de software de alta calidad. DevOps promueve la automatización, la comunicación y la colaboración continua entre los equipos, eliminando las barreras y mejorando la eficiencia en el ciclo de vida del desarrollo de software.
+* DevOps: Es una metodología y una cultura que busca la integración y colaboración estrecha entre los equipos de desarrollo de software (Dev) y los equipos de operaciones (Ops) con el objetivo de acelerar la entrega de software de alta calidad. DevOps promueve la automatización, la comunicación y la colaboración continua entre los equipos, eliminando las barreras y mejorando la eficiencia en el ciclo de vida del desarrollo de software.
 
 La filosofía de DevOps se centra en los siguientes principios:
 
-1. Colaboración: Los equipos de desarrollo y operaciones trabajan juntos desde el inicio del proceso de desarrollo hasta la entrega del software. Comparten objetivos comunes y se comunican de manera continua para lograr un mejor entendimiento y una toma de decisiones más eficiente.
+  * Colaboración: Los equipos de desarrollo y operaciones trabajan juntos desde el inicio del proceso de desarrollo hasta la entrega del software. Comparten objetivos comunes y se comunican de manera continua para lograr un mejor entendimiento y una toma de decisiones más eficiente.
 
-2. Automatización: Se busca la automatización de las tareas repetitivas y propensas a errores a través del uso de herramientas y tecnologías. Esto incluye la automatización de la compilación, las pruebas, el despliegue y el monitoreo de aplicaciones, lo que permite una entrega más rápida y confiable del software.
+  * Automatización: Se busca la automatización de las tareas repetitivas y propensas a errores a través del uso de herramientas y tecnologías. Esto incluye la automatización de la compilación, las pruebas, el despliegue y el monitoreo de aplicaciones, lo que permite una entrega más rápida y confiable del software.
 
-3. Integración continua: Se fomenta la práctica de integrar el código de los desarrolladores en un repositorio compartido de forma regular y automatizada. Esto permite detectar y solucionar problemas rápidamente, y asegura que todas las partes del software estén siempre actualizadas y funcionando correctamente.
+  *Integración continua: Se fomenta la práctica de integrar el código de los desarrolladores en un repositorio compartido de forma regular y automatizada. Esto permite detectar y solucionar problemas rápidamente, y asegura que todas las partes del software estén siempre actualizadas y funcionando correctamente.
 
-4. Entrega continua: Se busca la entrega de software de manera continua y frecuente, utilizando procesos automatizados y despliegues incrementales. Esto reduce el tiempo entre la implementación de nuevas características y su disponibilidad para los usuarios finales, lo que permite obtener retroalimentación más rápida y realizar mejoras continuas.
+  * Entrega continua: Se busca la entrega de software de manera continua y frecuente, utilizando procesos automatizados y despliegues incrementales. Esto reduce el tiempo entre la implementación de nuevas características y su disponibilidad para los usuarios finales, lo que permite obtener retroalimentación más rápida y realizar mejoras continuas.
 
-5. Monitoreo y retroalimentación: Se establecen mecanismos para monitorear el rendimiento y la disponibilidad del software en producción. Esto permite identificar y solucionar problemas de manera proactiva, así como recopilar datos y comentarios para mejorar la calidad y la experiencia del usuario.
+  * Monitoreo y retroalimentación: Se establecen mecanismos para monitorear el rendimiento y la disponibilidad del software en producción. Esto permite identificar y solucionar problemas de manera proactiva, así como recopilar datos y comentarios para mejorar la calidad y la experiencia del usuario.
 
 La implementación exitosa de DevOps requiere de herramientas adecuadas, prácticas ágiles, una cultura de colaboración y una mentalidad de mejora continua. Con DevOps, las organizaciones pueden lograr una mayor eficiencia, reducir los errores, acelerar la entrega de software y responder de manera más ágil a las necesidades del negocio y los usuarios.
 
@@ -146,50 +146,50 @@ La implementación exitosa de DevOps requiere de herramientas adecuadas, prácti
 
 * Currículum Vitae: El currículum vitae es una herramienta crucial en la búsqueda de empleo, y es importante elaborarlo de manera precisa y profesional. A continuación, se presentan algunas recomendaciones para crear un currículum efectivo:
 
-1. Formato y precisión: Es recomendable utilizar formatos profesionales como LaTeX o PDF para garantizar que el currículum se visualice correctamente y conserve su formato original en diferentes dispositivos. Además, es esencial asegurarse de que la información proporcionada sea precisa y verificable.
+  * Formato y precisión: Es recomendable utilizar formatos profesionales como LaTeX o PDF para garantizar que el currículum se visualice correctamente y conserve su formato original en diferentes dispositivos. Además, es esencial asegurarse de que la información proporcionada sea precisa y verificable.
 
-2. Relevancia de la información: Es importante incluir solo información relevante para el área o posición a la que te postulas. Evita agregar detalles personales innecesarios, como tu estado civil o residencia, a menos que sean requisitos específicos del empleador. Enfócate en resaltar tus habilidades, experiencia y logros relevantes para el puesto al que te postulas.
+  * Relevancia de la información: Es importante incluir solo información relevante para el área o posición a la que te postulas. Evita agregar detalles personales innecesarios, como tu estado civil o residencia, a menos que sean requisitos específicos del empleador. Enfócate en resaltar tus habilidades, experiencia y logros relevantes para el puesto al que te postulas.
 
-3. Experiencia laboral pertinente: Selecciona cuidadosamente la experiencia laboral que incluirás en tu currículum. Prioriza aquellas experiencias que estén directamente relacionadas con el área en la que deseas trabajar. Destaca los logros y responsabilidades relevantes que demuestren tu experiencia y competencia en el campo.
+  * Experiencia laboral pertinente: Selecciona cuidadosamente la experiencia laboral que incluirás en tu currículum. Prioriza aquellas experiencias que estén directamente relacionadas con el área en la que deseas trabajar. Destaca los logros y responsabilidades relevantes que demuestren tu experiencia y competencia en el campo.
 
-4. Profesionalismo: Mantén un enfoque profesional en tu currículum. Evita incluir información irrelevante o detalles personales que no estén directamente relacionados con tus habilidades y experiencia laboral. Concéntrate en presentar tus capacidades de manera clara y concisa, resaltando tus logros y contribuciones relevantes en roles anteriores.
+  * Profesionalismo: Mantén un enfoque profesional en tu currículum. Evita incluir información irrelevante o detalles personales que no estén directamente relacionados con tus habilidades y experiencia laboral. Concéntrate en presentar tus capacidades de manera clara y concisa, resaltando tus logros y contribuciones relevantes en roles anteriores.
 
-5. Adaptación al empleador: Personaliza tu currículum para cada empleador o posición a la que te postulas. Investiga sobre la empresa y el puesto, y adapta la información que presentas para destacar cómo tus habilidades y experiencia se alinean con los requisitos y las necesidades específicas de la organización.
+  * Adaptación al empleador: Personaliza tu currículum para cada empleador o posición a la que te postulas. Investiga sobre la empresa y el puesto, y adapta la información que presentas para destacar cómo tus habilidades y experiencia se alinean con los requisitos y las necesidades específicas de la organización.
 
 Recuerda que tu currículum vitae es tu carta de presentación ante los posibles empleadores. Asegúrate de que sea profesional, conciso y relevante, resaltando tus fortalezas y logros más importantes en relación con el puesto al que aspiras.
 
 * LinkedIn: Es una plataforma invaluable para los profesionales que buscan oportunidades laborales en el campo del desarrollo. Algunas recomendaciones para aprovechar al máximo esta red profesional:
 
-1. Perfil completo: Asegúrate de tener un perfil completo en LinkedIn. Esto incluye subir una imagen profesional tuya y proporcionar una descripción que resalte tus habilidades y experiencia en el desarrollo de software. Cuanto más completo sea tu perfil, más atractivo serás para los reclutadores y potenciales empleadores.
+  * Perfil completo: Asegúrate de tener un perfil completo en LinkedIn. Esto incluye subir una imagen profesional tuya y proporcionar una descripción que resalte tus habilidades y experiencia en el desarrollo de software. Cuanto más completo sea tu perfil, más atractivo serás para los reclutadores y potenciales empleadores.
 
-2. Amplía tu red de contactos: Conéctate con profesionales del campo del desarrollo y otros relacionados en LinkedIn. Cuantas más conexiones tengas, más oportunidades tendrás de descubrir nuevas ofertas de trabajo y establecer contactos con reclutadores y profesionales influyentes en la industria. Participa en grupos relevantes y colabora en discusiones para expandir tu red aún más.
+  * Amplía tu red de contactos: Conéctate con profesionales del campo del desarrollo y otros relacionados en LinkedIn. Cuantas más conexiones tengas, más oportunidades tendrás de descubrir nuevas ofertas de trabajo y establecer contactos con reclutadores y profesionales influyentes en la industria. Participa en grupos relevantes y colabora en discusiones para expandir tu red aún más.
 
-3. Explora las ofertas de trabajo: LinkedIn es una fuente inagotable de oportunidades laborales. Dedica tiempo a revisar las ofertas de trabajo publicadas diariamente y examina los requisitos y descripciones detalladamente. Si una oferta encaja con tus habilidades y experiencia, postúlate y demuestra cómo puedes contribuir al puesto. Si no cumples con todos los requisitos, considera si aún puedes aprender y adquirir los conocimientos necesarios para complementar tus habilidades.
+  * Explora las ofertas de trabajo: LinkedIn es una fuente inagotable de oportunidades laborales. Dedica tiempo a revisar las ofertas de trabajo publicadas diariamente y examina los requisitos y descripciones detalladamente. Si una oferta encaja con tus habilidades y experiencia, postúlate y demuestra cómo puedes contribuir al puesto. Si no cumples con todos los requisitos, considera si aún puedes aprender y adquirir los conocimientos necesarios para complementar tus habilidades.
 
-4. Aprende y desarrolla habilidades: Utiliza LinkedIn para seguir aprendiendo y desarrollándote en el campo del desarrollo de software. Existen cursos, artículos y grupos de discusión que pueden ayudarte a mantenerte actualizado con las últimas tendencias y tecnologías. Invierte tiempo en adquirir nuevas habilidades y conocimientos para mejorar tus perspectivas laborales.
+  * Aprende y desarrolla habilidades: Utiliza LinkedIn para seguir aprendiendo y desarrollándote en el campo del desarrollo de software. Existen cursos, artículos y grupos de discusión que pueden ayudarte a mantenerte actualizado con las últimas tendencias y tecnologías. Invierte tiempo en adquirir nuevas habilidades y conocimientos para mejorar tus perspectivas laborales.
 
 LinkedIn ofrece una plataforma poderosa para establecer conexiones profesionales, explorar oportunidades laborales y continuar tu desarrollo en el campo del desarrollo de software. Aprovecha al máximo esta red y utiliza las herramientas y recursos disponibles para expandir tu red de contactos, descubrir ofertas de trabajo relevantes y seguir aprendiendo y creciendo en tu carrera profesional.
 
 * Repositorios Públicos: Son una herramienta invaluable para mostrar tus proyectos y trabajos de desarrollo de software. Algunas recomendaciones para aprovechar al máximo los repositorios públicos:
 
-1. Utiliza Servicios como GitHub: Sube tus repositorios a plataformas populares como GitHub, que te permiten almacenar y compartir tu código de manera pública. Estos servicios ofrecen una amplia gama de funcionalidades, como seguimiento de problemas, control de versiones y colaboración con otros desarrolladores.
+  * Utiliza Servicios como GitHub: Sube tus repositorios a plataformas populares como GitHub, que te permiten almacenar y compartir tu código de manera pública. Estos servicios ofrecen una amplia gama de funcionalidades, como seguimiento de problemas, control de versiones y colaboración con otros desarrolladores.
 
-2. Destaca tus Proyectos: Asegúrate de que tus repositorios públicos reflejen tus mejores trabajos y desarrollos. Elige los proyectos más relevantes y significativos en los que hayas trabajado y súbelos a tus repositorios públicos. Esto le dará a los reclutadores y empleadores una idea clara de tus habilidades y experiencia en el desarrollo de software.
+  * Destaca tus Proyectos: Asegúrate de que tus repositorios públicos reflejen tus mejores trabajos y desarrollos. Elige los proyectos más relevantes y significativos en los que hayas trabajado y súbelos a tus repositorios públicos. Esto le dará a los reclutadores y empleadores una idea clara de tus habilidades y experiencia en el desarrollo de software.
 
-3. Documenta y Organiza tu Código: Es importante que tus repositorios públicos estén bien documentados y organizados. Asegúrate de incluir archivos README que expliquen el propósito del proyecto, cómo ejecutarlo y cualquier otra información relevante. También puedes utilizar etiquetas y estructurar tu código en directorios para facilitar la navegación y comprensión por parte de los visitantes.
+  * Documenta y Organiza tu Código: Es importante que tus repositorios públicos estén bien documentados y organizados. Asegúrate de incluir archivos README que expliquen el propósito del proyecto, cómo ejecutarlo y cualquier otra información relevante. También puedes utilizar etiquetas y estructurar tu código en directorios para facilitar la navegación y comprensión por parte de los visitantes.
 
-4. Comparte tus Repositorios: Una vez que hayas subido tus repositorios públicos, compártelos en tu perfil de LinkedIn, en tu currículum vitae y en otras plataformas profesionales. Esto permitirá que los reclutadores y empleadores accedan fácilmente a tus proyectos y puedan evaluar tus habilidades y logros en el desarrollo de software.
+  * Comparte tus Repositorios: Una vez que hayas subido tus repositorios públicos, compártelos en tu perfil de LinkedIn, en tu currículum vitae y en otras plataformas profesionales. Esto permitirá que los reclutadores y empleadores accedan fácilmente a tus proyectos y puedan evaluar tus habilidades y logros en el desarrollo de software.
 
 Los repositorios públicos son una excelente manera de demostrar tus habilidades y experiencia en el desarrollo de software. Asegúrate de mantenerlos actualizados y agregar nuevos proyectos a medida que progresas en tu carrera. Esto te ayudará a destacarte entre otros desarrolladores y aumentar tus posibilidades de conseguir oportunidades laborales emocionantes.
 
 * Despliega tus Aplicaciones: Para mostrar tus trabajos y desarrollos de manera efectiva, es recomendable utilizar servicios de hosting y conectar tu aplicación, servicios de aplicaciones o bases de datos a un dominio propio. Aquí algunas sugerencias para lograrlo:
 
-1. Elige un servicio de hosting confiable: Investiga y selecciona un servicio de hosting que se ajuste a tus necesidades. Asegúrate de que el proveedor tenga una buena reputación en términos de estabilidad, rendimiento y soporte técnico. Esto garantizará que tus aplicaciones o sitios web estén disponibles y funcionando correctamente para quienes deseen ver tu trabajo.
+  * Elige un servicio de hosting confiable: Investiga y selecciona un servicio de hosting que se ajuste a tus necesidades. Asegúrate de que el proveedor tenga una buena reputación en términos de estabilidad, rendimiento y soporte técnico. Esto garantizará que tus aplicaciones o sitios web estén disponibles y funcionando correctamente para quienes deseen ver tu trabajo.
 
-2. Conecta un dominio personalizado: Registra un dominio propio que refleje tu marca personal o el nombre de tu proyecto. Configura la conexión entre el dominio y el servicio de hosting para que tu aplicación o sitio web sea accesible a través de una URL profesional y fácil de recordar.
+  * Conecta un dominio personalizado: Registra un dominio propio que refleje tu marca personal o el nombre de tu proyecto. Configura la conexión entre el dominio y el servicio de hosting para que tu aplicación o sitio web sea accesible a través de una URL profesional y fácil de recordar.
 
-3. Despliega tus aplicaciones y proyectos: Utiliza los recursos proporcionados por el servicio de hosting para subir y desplegar tus aplicaciones o proyectos. Asegúrate de seguir las instrucciones y configuraciones adecuadas para que tus trabajos estén disponibles en línea.
+  * Despliega tus aplicaciones y proyectos: Utiliza los recursos proporcionados por el servicio de hosting para subir y desplegar tus aplicaciones o proyectos. Asegúrate de seguir las instrucciones y configuraciones adecuadas para que tus trabajos estén disponibles en línea.
 
-4. Crea un portafolio o una sección dedicada: Diseña una sección en tu sitio web o crea un portafolio específico donde puedas presentar tus proyectos y trabajos realizados. Proporciona descripciones claras y concisas de cada uno, junto con capturas de pantalla, enlaces de demostración y detalles técnicos relevantes. Esto permitirá que los entrevistadores o potenciales empleadores puedan revisar y evaluar tu experiencia de manera rápida y eficiente.
+  * Crea un portafolio o una sección dedicada: Diseña una sección en tu sitio web o crea un portafolio específico donde puedas presentar tus proyectos y trabajos realizados. Proporciona descripciones claras y concisas de cada uno, junto con capturas de pantalla, enlaces de demostración y detalles técnicos relevantes. Esto permitirá que los entrevistadores o potenciales empleadores puedan revisar y evaluar tu experiencia de manera rápida y eficiente.
 
 Al utilizar servicios de hosting y conectar tu trabajo con un dominio propio, estarás proporcionando una experiencia más profesional y accesible a quienes deseen ver tus desarrollos. Recuerda mantener tu contenido actualizado y relevante, y asegúrate de que tus aplicaciones o sitios web estén funcionando correctamente en todo momento. Esto aumentará tus posibilidades de impresionar a los entrevistadores y permitirá que tu trabajo se destaque ante posibles ofertas laborales.
