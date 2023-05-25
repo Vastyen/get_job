@@ -10,11 +10,15 @@ Sin embargo, no se debe perder de vista que la dedicación es un factor clave en
 
 A lo largo de este documento, se encontrarán consejos prácticos y perspectivas que ayudarán a comprender las implicaciones y el nivel de dedicación necesario para alcanzar el objetivo de conseguir trabajo como desarrollador de software.
 
+_____________________________________________________________________________________
+
 ### Herramientas
 
 * Git: Git es un sistema de control de versiones distribuido ampliamente utilizado en la industria del desarrollo de software. Es esencial que los desarrolladores aprendan a utilizar Git, ya que es una herramienta fundamental para el seguimiento y control de los cambios en el código fuente de un proyecto. Con Git, puedes clonar un repositorio para obtener una copia local, realizar commits para registrar y guardar los cambios realizados, y utilizar pull requests para revisar y fusionar los cambios con la rama principal. También es importante comprender los diferentes flujos de trabajo, como el flujo de trabajo de ramificación y fusión (branching and merging), para colaborar de manera efectiva en equipos y manejar las diferentes versiones del código.
 
 * Figma: Figma es una herramienta de diseño de interfaz de usuario (UI) y experiencia de usuario (UX) utilizada ampliamente en la industria. Los diseñadores UX/UI suelen utilizar Figma o Adobe XD para crear prototipos y diseños de aplicaciones. Como desarrollador, es importante tener habilidades básicas en Figma para comprender y trabajar con los prototipos proporcionados por los diseñadores. Esto implica poder navegar por la aplicación, comprender las capas y componentes, y colaborar con el equipo de diseño para implementar las funcionalidades requeridas. Aunque no es necesario ser un experto en diseño, tener conocimientos básicos de Figma te permitirá trabajar de manera más eficiente y asegurar la coherencia entre el diseño y la implementación funcional de la aplicación.
+
+_____________________________________________________________________________________
 
 ### Metodología Ágile
 
@@ -41,6 +45,8 @@ En general, la metodología ágil permite una mayor flexibilidad, capacidad de r
 * Product Owner: El Product Owner es un rol en el marco de trabajo Scrum que representa los intereses del cliente o los usuarios finales del producto. Es responsable de definir y priorizar los elementos del producto en el backlog, colaborar con el equipo de desarrollo para asegurar una comprensión clara de los requisitos y objetivos del proyecto, y tomar decisiones sobre el alcance y las funcionalidades a desarrollar en cada sprint. El Product Owner también interactúa con los stakeholders y el equipo de desarrollo para obtener retroalimentación y asegurarse de que el producto cumpla con las expectativas y necesidades del cliente.
 
 * QA (Aseguramiento de la Calidad): El Aseguramiento de la Calidad, también conocido como QA (del inglés Quality Assurance), es un proceso integral en el desarrollo de software que tiene como objetivo garantizar la calidad y el correcto funcionamiento del producto final. El equipo de QA se encarga de realizar pruebas y evaluaciones exhaustivas del software para identificar errores, validar que cumpla con los requisitos y estándares establecidos, y asegurar una experiencia de usuario satisfactoria. Esto implica la realización de pruebas de funcionalidad, pruebas de rendimiento, pruebas de seguridad y otras pruebas relevantes para el proyecto. El equipo de QA trabaja en colaboración con el equipo de desarrollo y otros stakeholders para mejorar continuamente la calidad del software y garantizar que se cumplan los estándares de calidad establecidos.
+
+_____________________________________________________________________________________
 
 ### Buenas Prácticas
 
@@ -74,6 +80,8 @@ La ingeniería de software es esencial en el desarrollo de aplicaciones y sistem
 
 * Clean Code (Código Limpio): El código limpio se refiere a la práctica de escribir código legible, comprensible y fácil de mantener. El código limpio sigue principios como la simplicidad, la claridad y la consistencia en la estructura y estilo de programación. Esto implica utilizar nombres descriptivos para variables y funciones, evitar la duplicación de código, mantener funciones y clases pequeñas y bien organizadas, y realizar refactorizaciones constantes para mejorar la calidad del código. El código limpio es esencial para promover la colaboración eficiente y reducir la complejidad del desarrollo de software.
 
+_____________________________________________________________________________________
+
 ### Front-End
 
 El frontend, también conocido como desarrollo front-end o programación del lado del cliente, se refiere a la parte de un sitio web o aplicación que los usuarios interactúan directamente. Es la capa visible y accesible que muestra la interfaz de usuario, permite la interacción y presenta la información al usuario.
@@ -94,6 +102,8 @@ En resumen, el frontend se encarga de la parte visible y la interacción de un s
 
 * Angular: Angular es un framework de desarrollo de aplicaciones web desarrollado por Google. Proporciona un conjunto completo de herramientas para construir aplicaciones web complejas y de gran escala. Angular utiliza TypeScript, un lenguaje de programación basado en JavaScript con características de tipado estático, lo que mejora la capacidad de mantenimiento y detección de errores en el código. Angular sigue el patrón de arquitectura Model-View-Controller (MVC) y ofrece características como enlace de datos bidireccional, inyección de dependencias y soporte para pruebas unitarias. Además, Angular proporciona una estructura sólida y coherente para desarrollar aplicaciones web, lo que facilita la colaboración entre equipos y la escalabilidad del proyecto.
 
+_____________________________________________________________________________________
+
 ### Back-End
 
 El backend, también conocido como desarrollo back-end o programación del lado del servidor, se refiere a la parte de un sitio web o aplicación que se encarga de la lógica y la funcionalidad detrás de escena. Es la capa responsable de procesar las solicitudes del usuario, interactuar con la base de datos, realizar cálculos y lidiar con la lógica empresarial.
@@ -113,6 +123,8 @@ En resumen, el backend es la parte de un sitio web o aplicación que maneja la l
 * Node.js: Node.js es un entorno de tiempo de ejecución de JavaScript basado en el motor V8 de Google Chrome. Permite a los desarrolladores ejecutar código JavaScript en el servidor, lo que lo hace adecuado para el desarrollo de aplicaciones del lado del servidor. Node.js utiliza un modelo de entrada/salida sin bloqueo y basado en eventos, lo que lo hace altamente eficiente y escalable. Es conocido por su capacidad para manejar grandes volúmenes de conexiones concurrentes y su enfoque en la creación de aplicaciones de alta velocidad y tiempo real. Además, Node.js cuenta con un ecosistema rico de paquetes y módulos, a través de su administrador de paquetes npm, que facilita la reutilización de código y acelera el desarrollo de aplicaciones.
 
 * Arquitectura de Microservicios: La arquitectura de microservicios es un enfoque de diseño de software que consiste en construir una aplicación como un conjunto de servicios pequeños e independientes que se ejecutan de manera autónoma y se comunican entre sí a través de interfaces bien definidas. Cada servicio se enfoca en una única funcionalidad específica y puede ser desarrollado, implementado y escalado de forma independiente. La arquitectura de microservicios permite una mayor flexibilidad, modularidad y escalabilidad en comparación con los enfoques monolíticos tradicionales. También facilita la implementación continua, la recuperación rápida de errores y la adopción de diferentes tecnologías en cada servicio. Sin embargo, la arquitectura de microservicios también introduce desafíos adicionales, como la gestión de la comunicación entre los servicios y la coordinación de las transacciones distribuidas.
+
+_____________________________________________________________________________________
 
 ### DevOps
 
@@ -139,6 +151,8 @@ La implementación exitosa de DevOps requiere de herramientas adecuadas, prácti
 * Microsoft Azure: Microsoft Azure es una plataforma de servicios en la nube desarrollada por Microsoft. Ofrece una amplia gama de servicios y herramientas para desarrollar, implementar y administrar aplicaciones y servicios en la nube. Azure incluye servicios como el alojamiento web, el almacenamiento en la nube, las bases de datos, el aprendizaje automático, la inteligencia artificial, la computación en la nube y muchos otros. Proporciona flexibilidad y escalabilidad para las organizaciones que buscan migrar a la nube o construir nuevas soluciones en la nube. Azure también ofrece integración con herramientas y tecnologías de Microsoft, lo que facilita la adopción para aquellos que ya utilizan productos de Microsoft.
 
 * Google GCP: Google Cloud Platform (GCP) es la plataforma de servicios en la nube ofrecida por Google. Proporciona una amplia gama de servicios y herramientas para desarrollar, implementar y administrar aplicaciones y servicios en la nube. GCP incluye servicios como el alojamiento web, el almacenamiento en la nube, las bases de datos, la inteligencia artificial, el aprendizaje automático, el análisis de datos y mucho más. Ofrece escalabilidad, rendimiento y seguridad para aplicaciones y servicios en la nube. Además, GCP se integra bien con otras herramientas y tecnologías de Google.
+
+_____________________________________________________________________________________
 
 ### Perfil Laboral
 
@@ -237,6 +251,8 @@ ________________________________________________________________________________
 * HTML: HTML (HyperText Markup Language) es el lenguaje de marcado utilizado para crear páginas web. Permite definir la estructura y el contenido de una página utilizando etiquetas y elementos que indican cómo se deben mostrar los diferentes elementos, como encabezados, párrafos, imágenes, enlaces, formularios, etc.
 
 * SCSS: SCSS (Sassy CSS) es una extensión del lenguaje CSS que añade características adicionales y mejoras. SCSS permite el uso de variables, anidamiento de selectores, mixins, funciones y otros constructores que facilitan la escritura y el mantenimiento de estilos CSS en proyectos web.
+
+_____________________________________________________________________________________
 
 ### Deberías Aprender
 
