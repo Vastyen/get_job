@@ -10,6 +10,16 @@ Sin embargo, no se debe perder de vista que la dedicación es un factor clave en
 
 A lo largo de este documento, se encontrarán consejos prácticos y perspectivas que ayudarán a comprender las implicaciones y el nivel de dedicación necesario para alcanzar el objetivo de conseguir trabajo como desarrollador de software.
 
+La finalidad de este documento es proporcionarte una introducción y orientación sobre los conceptos que necesitas conocer y explorar para convertirte en un buen desarrollador. No es suficiente leer cada uno de los puntos de manera superficial, es importante investigar y poner en práctica lo aprendido.
+
+Ser un buen desarrollador implica ir más allá de la teoría y aplicar los conocimientos en proyectos reales. Debes tener la motivación y la curiosidad para explorar y profundizar en cada tema, experimentar con diferentes tecnologías y prácticas, y aprender de tus errores y experiencias.
+
+Además, es fundamental mantenerse actualizado en un campo en constante evolución como la programación. Debes estar al tanto de las nuevas tendencias, herramientas y técnicas que surgen en la industria. Esto implica leer blogs, seguir a expertos en redes sociales, participar en comunidades de desarrolladores y estar dispuesto a aprender de forma continua.
+
+No subestimes la importancia de la práctica y el trabajo en proyectos reales. A medida que enfrentes desafíos y resuelvas problemas, adquirirás experiencia invaluable y desarrollarás habilidades prácticas que te ayudarán a crecer como desarrollador.
+
+En resumen, este documento te brinda una base de conocimientos, pero el verdadero crecimiento y desarrollo como desarrollador requiere de tu dedicación, exploración, práctica y una mentalidad de aprendizaje continuo.
+
 _____________________________________________________________________________________
 
 ### Herramientas
