@@ -1,5 +1,15 @@
 # Cómo Conseguir Trabajo como Desarrollador
 
+En un mundo cada vez más impulsado por la tecnología, la demanda de profesionales en el campo del desarrollo de software continúa en constante crecimiento.
+
+A lo largo de este texto, se analizarán diversas estrategias y consideraciones clave para aquellos que deseen ingresar al mercado laboral como desarrolladores de software. Se abordará desde la importancia de adquirir las habilidades y conocimientos necesarios, hasta cómo destacar en procesos de selección y entrevistas.
+
+El campo del desarrollo de software ofrece una amplia gama de oportunidades y desafíos. Se explorarán diferentes caminos de aprendizaje, como la educación formal, cursos en línea y proyectos personales, que pueden ayudar a adquirir las habilidades técnicas requeridas. También se abordará la importancia de la experiencia práctica a través de proyectos y colaboraciones, así como la construcción de un portafolio sólido para demostrar habilidades a posibles empleadores.
+
+Sin embargo, no se debe perder de vista que la dedicación es un factor clave en este proceso. Conseguir trabajo como desarrollador de software implica mantenerse actualizado en un campo en constante evolución, estar dispuesto a aprender y adaptarse a nuevas tecnologías, y comprometerse con la mejora continua de las habilidades.
+
+A lo largo de este documento, se encontrarán consejos prácticos y perspectivas que ayudarán a comprender las implicaciones y el nivel de dedicación necesario para alcanzar el objetivo de conseguir trabajo como desarrollador de software.
+
 ### Herramientas
 
 * Git: Lo más importante es saber utilizar Git. Esto es indispensable, en absolutamente toda la industria lo usarás sin importar el servicio (ya sea, Bitbucket, GitHub, GitLab, etcétera…). Debes aprender cómo clonar, hacer commits, pull requests y manejarte entre ramas. Debes aprender cómo funcionan los flujos de trabajos.
