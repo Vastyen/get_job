@@ -144,10 +144,40 @@ La implementación exitosa de DevOps requiere de herramientas adecuadas, prácti
 
 ### Perfil Laboral
 
-* Currículum Vitae: Crea un currículum preferentemente en Látex o en formato PDF que sea exacto. No añadas información irrelevante como tu estado civil, tu residencia o dónde estudiaste hace 10 años (educación básica o media). No pongas experiencia laboral que no sea relevante en el área, sé profesional y postula al empleo con la información que realmente le intesa leer a tu posible empleador.
+* Currículum Vitae: El currículum vitae es una herramienta crucial en la búsqueda de empleo, y es importante elaborarlo de manera precisa y profesional. A continuación, se presentan algunas recomendaciones para crear un currículum efectivo:
 
-* LinkedIn: Sube una imagen tuya, añade descripción y amplía tu red de contactos. En LinkedIn se publican cientos y cientos de ofertas de trabajo de desarrollo cada día. Revisa cada oferta y sus requisitos y ve si cumples con ellos, si no cumples, aprendes y así te vas complementando hasta completar conocimiento
+1. Formato y precisión: Es recomendable utilizar formatos profesionales como LaTeX o PDF para garantizar que el currículum se visualice correctamente y conserve su formato original en diferentes dispositivos. Además, es esencial asegurarse de que la información proporcionada sea precisa y verificable.
 
-* Repositorios Públicos: Deja tus repositorios/proyectos públicos para que puedan ver tus trabajos y desarrollos. Súbelos a un servicio como GitHub o similar.
+2. Relevancia de la información: Es importante incluir solo información relevante para el área o posición a la que te postulas. Evita agregar detalles personales innecesarios, como tu estado civil o residencia, a menos que sean requisitos específicos del empleador. Enfócate en resaltar tus habilidades, experiencia y logros relevantes para el puesto al que te postulas.
 
+3. Experiencia laboral pertinente: Selecciona cuidadosamente la experiencia laboral que incluirás en tu currículum. Prioriza aquellas experiencias que estén directamente relacionadas con el área en la que deseas trabajar. Destaca los logros y responsabilidades relevantes que demuestren tu experiencia y competencia en el campo.
 
+4. Profesionalismo: Mantén un enfoque profesional en tu currículum. Evita incluir información irrelevante o detalles personales que no estén directamente relacionados con tus habilidades y experiencia laboral. Concéntrate en presentar tus capacidades de manera clara y concisa, resaltando tus logros y contribuciones relevantes en roles anteriores.
+
+5. Adaptación al empleador: Personaliza tu currículum para cada empleador o posición a la que te postulas. Investiga sobre la empresa y el puesto, y adapta la información que presentas para destacar cómo tus habilidades y experiencia se alinean con los requisitos y las necesidades específicas de la organización.
+
+Recuerda que tu currículum vitae es tu carta de presentación ante los posibles empleadores. Asegúrate de que sea profesional, conciso y relevante, resaltando tus fortalezas y logros más importantes en relación con el puesto al que aspiras.
+
+* LinkedIn: Es una plataforma invaluable para los profesionales que buscan oportunidades laborales en el campo del desarrollo. Algunas recomendaciones para aprovechar al máximo esta red profesional:
+
+1. Perfil completo: Asegúrate de tener un perfil completo en LinkedIn. Esto incluye subir una imagen profesional tuya y proporcionar una descripción que resalte tus habilidades y experiencia en el desarrollo de software. Cuanto más completo sea tu perfil, más atractivo serás para los reclutadores y potenciales empleadores.
+
+2. Amplía tu red de contactos: Conéctate con profesionales del campo del desarrollo y otros relacionados en LinkedIn. Cuantas más conexiones tengas, más oportunidades tendrás de descubrir nuevas ofertas de trabajo y establecer contactos con reclutadores y profesionales influyentes en la industria. Participa en grupos relevantes y colabora en discusiones para expandir tu red aún más.
+
+3. Explora las ofertas de trabajo: LinkedIn es una fuente inagotable de oportunidades laborales. Dedica tiempo a revisar las ofertas de trabajo publicadas diariamente y examina los requisitos y descripciones detalladamente. Si una oferta encaja con tus habilidades y experiencia, postúlate y demuestra cómo puedes contribuir al puesto. Si no cumples con todos los requisitos, considera si aún puedes aprender y adquirir los conocimientos necesarios para complementar tus habilidades.
+
+4. Aprende y desarrolla habilidades: Utiliza LinkedIn para seguir aprendiendo y desarrollándote en el campo del desarrollo de software. Existen cursos, artículos y grupos de discusión que pueden ayudarte a mantenerte actualizado con las últimas tendencias y tecnologías. Invierte tiempo en adquirir nuevas habilidades y conocimientos para mejorar tus perspectivas laborales.
+
+LinkedIn ofrece una plataforma poderosa para establecer conexiones profesionales, explorar oportunidades laborales y continuar tu desarrollo en el campo del desarrollo de software. Aprovecha al máximo esta red y utiliza las herramientas y recursos disponibles para expandir tu red de contactos, descubrir ofertas de trabajo relevantes y seguir aprendiendo y creciendo en tu carrera profesional.
+
+* Repositorios Públicos: Son una herramienta invaluable para mostrar tus proyectos y trabajos de desarrollo de software. Algunas recomendaciones para aprovechar al máximo los repositorios públicos:
+
+1. Utiliza servicios como GitHub: Sube tus repositorios a plataformas populares como GitHub, que te permiten almacenar y compartir tu código de manera pública. Estos servicios ofrecen una amplia gama de funcionalidades, como seguimiento de problemas, control de versiones y colaboración con otros desarrolladores.
+
+2. Destaca tus proyectos: Asegúrate de que tus repositorios públicos reflejen tus mejores trabajos y desarrollos. Elige los proyectos más relevantes y significativos en los que hayas trabajado y súbelos a tus repositorios públicos. Esto le dará a los reclutadores y empleadores una idea clara de tus habilidades y experiencia en el desarrollo de software.
+
+3. Documenta y organiza tu código: Es importante que tus repositorios públicos estén bien documentados y organizados. Asegúrate de incluir archivos README que expliquen el propósito del proyecto, cómo ejecutarlo y cualquier otra información relevante. También puedes utilizar etiquetas y estructurar tu código en directorios para facilitar la navegación y comprensión por parte de los visitantes.
+
+4. Comparte tus repositorios: Una vez que hayas subido tus repositorios públicos, compártelos en tu perfil de LinkedIn, en tu currículum vitae y en otras plataformas profesionales. Esto permitirá que los reclutadores y empleadores accedan fácilmente a tus proyectos y puedan evaluar tus habilidades y logros en el desarrollo de software.
+
+Los repositorios públicos son una excelente manera de demostrar tus habilidades y experiencia en el desarrollo de software. Asegúrate de mantenerlos actualizados y agregar nuevos proyectos a medida que progresas en tu carrera. Esto te ayudará a destacarte entre otros desarrolladores y aumentar tus posibilidades de conseguir oportunidades laborales emocionantes.
