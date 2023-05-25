@@ -1,5 +1,13 @@
 # Cómo conseguir trabajo como desarrollador
 
+## Herramientas
+
+## Metodología ágile
+
+### Frontend
+
+### Backend
+
 Git: Lo más importante es saber utilizar Git. Esto es indispensable, en absolutamente toda la industria lo usarás sin importar el servicio (ya sea, Bitbucket, GitHub, GitLab, etcétera…). Debes aprender cómo clonar, hacer commits, pull requests y manejarte entre ramas. Debes aprender cómo funcionan los flujos de trabajos.
 
 Metodologías Agile: Gran parte de la industria utiliza metodologías agile para equipos/células de desarrollo. Es por esto, que aprender Scrum sumará muchísimos puntos. No es necesario que te conviertas en Scrum Master.
