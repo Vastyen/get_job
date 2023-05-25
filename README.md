@@ -1,4 +1,4 @@
-# Cómo conseguir trabajo como desarrollador junior
+# Cómo conseguir trabajo como desarrollador
 
 Git: Lo más importante es saber utilizar Git. Esto es indispensable, en absolutamente toda la industria lo usarás sin importar el servicio (ya sea, Bitbucket, GitHub, GitLab, etcétera…). Debes aprender cómo clonar, hacer commits, pull requests y manejarte entre ramas. Debes aprender cómo funcionan los flujos de trabajos.
 
