@@ -46,6 +46,8 @@ ________________________________________________________________________________
 
 * PowerShell: PowerShell es una interfaz de línea de comandos y un lenguaje de scripting desarrollado por Microsoft para administrar y automatizar tareas en sistemas Windows. Combina la funcionalidad de un shell de línea de comandos con el poder de un lenguaje de scripting, permitiendo a los usuarios realizar una amplia gama de operaciones, como administrar archivos y directorios, configurar servicios, administrar usuarios y permisos, y realizar tareas de administración del sistema. PowerShell ofrece una sintaxis estructurada y potentes capacidades de automatización, lo que lo convierte en una herramienta valiosa para administradores de sistemas y desarrolladores en entornos Windows.
 
+* Microsoft Teams: Microsoft Teams es una plataforma unificada de comunicación y colaboración que combina chat persistente en el lugar de trabajo, reuniones de video, almacenamiento de archivos e integración de aplicaciones.
+
 _____________________________________________________________________________________
 
 ### Metodología Ágile
