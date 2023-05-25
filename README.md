@@ -422,4 +422,4 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-Desarrollado por [@vastien](https://www.linkedin.com/in/vastien/) y por [Open IA](https://openai.com/)
+Desarrollado por [@vastien](https://www.linkedin.com/in/vastien/) 
