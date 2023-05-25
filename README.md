@@ -116,15 +116,13 @@ En resumen, el backend es la parte de un sitio web o aplicación que maneja la l
 
 ### DevOps
 
-* DevOps: Es una metodología y una cultura que busca la integración y colaboración estrecha entre los equipos de desarrollo de software (Dev) y los equipos de operaciones (Ops) con el objetivo de acelerar la entrega de software de alta calidad. DevOps promueve la automatización, la comunicación y la colaboración continua entre los equipos, eliminando las barreras y mejorando la eficiencia en el ciclo de vida del desarrollo de software.
-
-La filosofía de DevOps se centra en los siguientes principios:
+* DevOps: Es una metodología y una cultura que busca la integración y colaboración estrecha entre los equipos de desarrollo de software (Dev) y los equipos de operaciones (Ops) con el objetivo de acelerar la entrega de software de alta calidad. DevOps promueve la automatización, la comunicación y la colaboración continua entre los equipos, eliminando las barreras y mejorando la eficiencia en el ciclo de vida del desarrollo de software. La filosofía de DevOps se centra en los siguientes principios:
 
   * Colaboración: Los equipos de desarrollo y operaciones trabajan juntos desde el inicio del proceso de desarrollo hasta la entrega del software. Comparten objetivos comunes y se comunican de manera continua para lograr un mejor entendimiento y una toma de decisiones más eficiente.
 
   * Automatización: Se busca la automatización de las tareas repetitivas y propensas a errores a través del uso de herramientas y tecnologías. Esto incluye la automatización de la compilación, las pruebas, el despliegue y el monitoreo de aplicaciones, lo que permite una entrega más rápida y confiable del software.
 
-  *Integración continua: Se fomenta la práctica de integrar el código de los desarrolladores en un repositorio compartido de forma regular y automatizada. Esto permite detectar y solucionar problemas rápidamente, y asegura que todas las partes del software estén siempre actualizadas y funcionando correctamente.
+  * Integración continua: Se fomenta la práctica de integrar el código de los desarrolladores en un repositorio compartido de forma regular y automatizada. Esto permite detectar y solucionar problemas rápidamente, y asegura que todas las partes del software estén siempre actualizadas y funcionando correctamente.
 
   * Entrega continua: Se busca la entrega de software de manera continua y frecuente, utilizando procesos automatizados y despliegues incrementales. Esto reduce el tiempo entre la implementación de nuevas características y su disponibilidad para los usuarios finales, lo que permite obtener retroalimentación más rápida y realizar mejoras continuas.
 
