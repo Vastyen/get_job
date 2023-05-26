@@ -2,7 +2,7 @@
 
 En un mundo cada vez más impulsado por la tecnología, la demanda de profesionales en el campo del desarrollo de software continúa en constante crecimiento.
 
-A lo largo de este texto, se analizarán diversas estrategias y consideraciones clave para aquellos que deseen ingresar al mercado laboral como desarrolladores de software. Se abordará desde la importancia de adquirir las habilidades y conocimientos necesarios, hasta cómo destacar en procesos de selección y entrevistas.
+A lo largo de este documento, se analizarán diversas estrategias y consideraciones clave para aquellos que deseen ingresar al mercado laboral como desarrolladores de software. Se abordará desde la importancia de adquirir las habilidades y conocimientos necesarios, hasta cómo destacar en procesos de selección y entrevistas.
 
 El campo del desarrollo de software ofrece una amplia gama de oportunidades y desafíos. Se explorarán diferentes caminos de aprendizaje, como la educación formal, cursos en línea y proyectos personales, que pueden ayudar a adquirir las habilidades técnicas requeridas. También se abordará la importancia de la experiencia práctica a través de proyectos y colaboraciones, así como la construcción de un portafolio sólido para demostrar habilidades a posibles empleadores.
 
@@ -10,7 +10,7 @@ Sin embargo, no se debe perder de vista que la dedicación es un factor clave en
 
 A lo largo de este documento, se encontrarán consejos prácticos y perspectivas que ayudarán a comprender las implicaciones y el nivel de dedicación necesario para alcanzar el objetivo de conseguir trabajo como desarrollador de software.
 
-La finalidad de este documento es proporcionarte una introducción y orientación sobre los conceptos que necesitas conocer y explorar para convertirte en un buen desarrollador. No es suficiente leer cada uno de los puntos de manera superficial, es importante investigar y poner en práctica lo aprendido.
+La finalidad de este documento es proporcionar una introducción y orientación sobre los conceptos que necesitas conocer y explorar para convertirte en un buen desarrollador. No es suficiente leer cada uno de los puntos de manera superficial, es importante investigar y poner en práctica lo aprendido.
 
 Ser un buen desarrollador implica ir más allá de la teoría y aplicar los conocimientos en proyectos reales. Debes tener la motivación y la curiosidad para explorar y profundizar en cada tema, experimentar con diferentes tecnologías y prácticas, y aprender de tus errores y experiencias.
 
@@ -18,11 +18,13 @@ Además, es fundamental mantenerse actualizado en un campo en constante evoluci�
 
 No subestimes la importancia de la práctica y el trabajo en proyectos reales. A medida que enfrentes desafíos y resuelvas problemas, adquirirás experiencia invaluable y desarrollarás habilidades prácticas que te ayudarán a crecer como desarrollador.
 
-En resumen, este documento te brinda una base de conocimientos, pero el verdadero crecimiento y desarrollo como desarrollador requiere de tu dedicación, exploración, práctica y una mentalidad de aprendizaje continuo.
+Este documento te brinda una base de conocimientos, pero el verdadero crecimiento y desarrollo como desarrollador requiere de tu dedicación, exploración, práctica y una mentalidad de aprendizaje continuo.
 
 _____________________________________________________________________________________
 
 ### Herramientas
+
+Las herramientas de desarrollo son aplicaciones o programas que ayudan a los desarrolladores a escribir, depurar, probar y desplegar software de manera más eficiente. Son importantes de aprender porque aumentan la productividad, facilitan la depuración y pruebas, permiten la colaboración en equipo, ayudan en el mantenimiento y escalabilidad del software, y mantienen a los desarrolladores actualizados con las últimas tecnologías y tendencias. En resumen, aprender a utilizar estas herramientas es esencial para desarrollar software de calidad y ser competente en el campo de la programación. Este es un listado de herramientas que necesitarás aprender para poder conseguir (y/o que utilizarás) tu primer trabajo como desarrollador:
 
 * Git: Es un sistema de control de versiones distribuido ampliamente utilizado en la industria del desarrollo de software. Es esencial que los desarrolladores aprendan a utilizar Git, ya que es una herramienta fundamental para el seguimiento y control de los cambios en el código fuente de un proyecto. Con Git, puedes clonar un repositorio para obtener una copia local, realizar commits para registrar y guardar los cambios realizados, y utilizar pull requests para revisar y fusionar los cambios con la rama principal. También es importante comprender los diferentes flujos de trabajo, como el flujo de trabajo de ramificación y fusión (branching and merging), para colaborar de manera efectiva en equipos y manejar las diferentes versiones del código.
 
@@ -190,7 +192,7 @@ La implementación exitosa de DevOps requiere de herramientas adecuadas, prácti
 
 _____________________________________________________________________________________
 
-### Debes Aprender
+### Necesitas Aprender
 
 * Trabajo en Equipo: El trabajo en equipo se refiere a la colaboración y cooperación de varias personas para lograr un objetivo común. Implica la comunicación efectiva, la coordinación de tareas y la distribución equitativa de responsabilidades, con el fin de maximizar la eficiencia y alcanzar mejores resultados.
 
@@ -276,7 +278,7 @@ ________________________________________________________________________________
 
 * Adapter: En el desarrollo de software, un "adapter" es un patrón de diseño que permite la interoperabilidad entre diferentes interfaces o componentes. Actúa como un puente entre dos interfaces incompatibles, permitiendo que trabajen juntas sin necesidad de modificar el código fuente original. Los adapters son útiles cuando se necesita integrar sistemas o componentes existentes en un nuevo entorno o contexto.
 
-* Services: En el contexto del desarrollo de software, los "services" son componentes o clases que encapsulan la lógica de negocio y se utilizan para realizar operaciones específicas. Los servicios pueden realizar tareas como el acceso a bases de datos, la comunicación con APIs externas, el procesamiento de datos o cualquier otra funcionalidad relacionada con la lógica de negocio de una aplicación.
+* Service: En el contexto del desarrollo de software, los "services" son componentes o clases que encapsulan la lógica de negocio y se utilizan para realizar operaciones específicas. Los servicios pueden realizar tareas como el acceso a bases de datos, la comunicación con APIs externas, el procesamiento de datos o cualquier otra funcionalidad relacionada con la lógica de negocio de una aplicación.
 
 * Controller: En el desarrollo de aplicaciones web, los "controllers" son componentes que se utilizan para manejar las solicitudes entrantes y coordinar las respuestas correspondientes. Los controllers reciben solicitudes HTTP, interactúan con los servicios y manipulan los datos necesarios para generar una respuesta adecuada.
 
@@ -330,6 +332,8 @@ ________________________________________________________________________________
 _____________________________________________________________________________________
 
 ### Perfil Laboral
+
+El objetivo de un perfil laboral es proporcionar a los empleadores una idea clara de las características y capacidades que buscan en un candidato, lo que les ayuda a realizar una selección adecuada y encontrar el candidato más idóneo para el puesto. A continuación una lista de consejos:
 
 * Currículum Vitae: El currículum vitae es una herramienta crucial en la búsqueda de empleo, y es importante elaborarlo de manera precisa y profesional. A continuación, se presentan algunas recomendaciones para crear un currículum efectivo:
 
@@ -406,6 +410,8 @@ Dar una buena entrevista en el área de desarrollo requiere preparación y enfoq
 Recuerda que una buena entrevista no solo se trata de responder preguntas técnicas, sino también de mostrar tu personalidad, habilidades de comunicación y capacidad para adaptarte. Prepararte de antemano, mantener la calma y ser confiado te ayudarán a destacarte en el proceso de selección.
 
 _____________________________________________________________________________________
+
+### En Resumen
 
 El campo del desarrollo de software ofrece un mundo de oportunidades, pero alcanzar el éxito requiere más que simplemente adquirir conocimientos teóricos. Se necesita compromiso, práctica constante y una actitud de aprendizaje continuo. Es esencial mantenerse actualizado en un campo en constante evolución y estar dispuesto a explorar nuevas tecnologías y enfoques. La dedicación y la experiencia práctica son clave para destacar en el mercado laboral y en los procesos de selección. Aprovecha las oportunidades de aprendizaje, trabaja en proyectos reales y nunca dejes de mejorar tus habilidades. Ser un buen desarrollador implica ir más allá de la teoría y estar dispuesto a enfrentar desafíos, aprender de tus errores y crecer constantemente. Con la combinación adecuada de conocimiento, experiencia y actitud, puedes prosperar en el campo del desarrollo de software y alcanzar tus metas profesionales.
 
