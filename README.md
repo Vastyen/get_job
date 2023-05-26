@@ -1,4 +1,4 @@
-# Cómo conseguir trabajo como desarrollador
+# Cómo conseguir trabajo como desarrollador de software
 
 En un mundo cada vez más impulsado por la tecnología, la demanda de profesionales en el campo del desarrollo de software continúa en constante crecimiento.
 
@@ -190,7 +190,7 @@ La implementación exitosa de DevOps requiere de herramientas adecuadas, prácti
 
 _____________________________________________________________________________________
 
-### Necesitas Aprender
+### Debes Aprender
 
 * Trabajo en Equipo: El trabajo en equipo se refiere a la colaboración y cooperación de varias personas para lograr un objetivo común. Implica la comunicación efectiva, la coordinación de tareas y la distribución equitativa de responsabilidades, con el fin de maximizar la eficiencia y alcanzar mejores resultados.
 
@@ -269,6 +269,19 @@ ________________________________________________________________________________
 * React Router: Es una biblioteca de enrutamiento para aplicaciones de React que permite la navegación entre diferentes componentes y páginas. Proporciona un conjunto de componentes y utilidades que permiten definir rutas y asociarlas con componentes específicos para que se muestren cuando se accede a una URL en particular. React Router maneja la actualización del enrutamiento de forma eficiente, evitando la recarga de la página completa. Con React Router, los desarrolladores pueden crear aplicaciones de una sola página (SPA) con una navegación fluida y una experiencia de usuario interactiva.
 
 * Enrutador de Node.js: Es una herramienta esencial para construir aplicaciones web en Node.js. Es responsable de recibir las solicitudes HTTP entrantes y dirigirlas a las rutas y controladores correspondientes en el servidor. Utilizando bibliotecas populares como Express.js o Koa.js, el enrutador permite definir de manera sencilla las rutas, manejar parámetros de URL y enviar respuestas al cliente. Esta funcionalidad estructurada y flexible facilita la construcción de aplicaciones web escalables y la implementación de API RESTful, optimizando el manejo de solicitudes y respuestas en una aplicación Node.js.
+
+* Path: En el contexto del desarrollo de software, los "paths" se refieren a las rutas o ubicaciones de archivos en un sistema de archivos. Los paths son utilizados para identificar y acceder a archivos o directorios específicos en un sistema. Se especifican utilizando una combinación de carpetas y nombres de archivos que conforman una ruta única.
+
+* Endpoint: En el contexto de las aplicaciones web y las APIs, los "endpoints" se refieren a las URL o rutas específicas a las que se puede acceder en un servidor para realizar operaciones o recuperar datos. Cada endpoint se asocia con una acción o funcionalidad particular, y al acceder a un endpoint a través de una solicitud HTTP, se realiza la operación correspondiente en el servidor.
+
+* Adapter: En el desarrollo de software, un "adapter" es un patrón de diseño que permite la interoperabilidad entre diferentes interfaces o componentes. Actúa como un puente entre dos interfaces incompatibles, permitiendo que trabajen juntas sin necesidad de modificar el código fuente original. Los adapters son útiles cuando se necesita integrar sistemas o componentes existentes en un nuevo entorno o contexto.
+
+* Services: En el contexto del desarrollo de software, los "services" son componentes o clases que encapsulan la lógica de negocio y se utilizan para realizar operaciones específicas. Los servicios pueden realizar tareas como el acceso a bases de datos, la comunicación con APIs externas, el procesamiento de datos o cualquier otra funcionalidad relacionada con la lógica de negocio de una aplicación.
+
+* Controller: En el desarrollo de aplicaciones web, los "controllers" son componentes que se utilizan para manejar las solicitudes entrantes y coordinar las respuestas correspondientes. Los controllers reciben solicitudes HTTP, interactúan con los servicios y manipulan los datos necesarios para generar una respuesta adecuada.
+
+* Middleware: El "middleware" es un concepto utilizado en el desarrollo de software que se refiere a una capa de software que se coloca entre el cliente y el servidor para realizar tareas específicas. El middleware puede interceptar y procesar solicitudes, modificar datos, agregar funcionalidad adicional o realizar cualquier otra tarea necesaria antes de que la solicitud llegue al servidor o antes de que la respuesta se envíe al cliente.
+
 _____________________________________________________________________________________
 
 ### Deberías Aprender
@@ -294,10 +307,6 @@ ________________________________________________________________________________
 
 * Firebase: Firebase es una plataforma de desarrollo de aplicaciones móviles y web desarrollada por Google. Proporciona una amplia gamade servicios en la nube, como almacenamiento de datos en tiempo real, autenticación de usuarios, análisis, notificaciones push y más. Firebase facilita la creación de aplicaciones de alta calidad al ofrecer una infraestructura escalable y una variedad de herramientas y servicios listos para usar.
 
-* Back-End con Ruby on Rails: Ruby on Rails, comúnmente conocido como Rails, es un popular framework de desarrollo web escrito en el lenguaje de programación Ruby. Rails sigue el patrón de diseño MVC (Modelo-Vista-Controlador) y permite a los desarrolladores construir aplicaciones web de manera eficiente y rápida. Ruby on Rails se utiliza en el desarrollo de back-end para crear la lógica del servidor y gestionar la interacción con la base de datos, proporcionando una estructura sólida y convenciones claras para el desarrollo ágil de aplicaciones web.
-
-* C# y .NET: C# (C Sharp) es un lenguaje de programación orientado a objetos desarrollado por Microsoft. Es ampliamente utilizado en el desarrollo de aplicaciones de escritorio y aplicaciones web utilizando el framework .NET. C# proporciona características poderosas y una sintaxis elegante, y es compatible con una amplia variedad de aplicaciones en el ecosistema de Microsoft. .NET es un conjunto de tecnologías de desarrollo de software que incluye el Common Language Runtime (CLR) y una biblioteca de clases, y permite a los desarrolladores crear aplicaciones en varios lenguajes, incluido C#.
-
 * Linux: Es un sistema operativo de código abierto basado en el kernel de Linux. Es conocido por su estabilidad, seguridad y flexibilidad. Creado por Linus Torvalds en 1991, Linux se ha convertido en una opción popular en diversos entornos, desde servidores y supercomputadoras hasta dispositivos móviles y sistemas embebidos. Una de las principales ventajas de Linux es su naturaleza de código abierto, lo que permite a los usuarios acceder, modificar y distribuir el código fuente. Esto ha fomentado una comunidad de desarrolladores activa y una amplia gama de distribuciones, como Ubuntu y Fedora.
 
 Linux es altamente valorado en el ámbito de los servidores web y de bases de datos debido a su estabilidad y escalabilidad. También es compatible con una amplia variedad de aplicaciones de software de código abierto y ofrece una línea de comandos poderosa para una mayor flexibilidad y personalización. En resumen, Linux es un sistema operativo versátil y confiable utilizado en múltiples ámbitos de la informática.
@@ -314,17 +323,9 @@ ________________________________________________________________________________
 
 * Rollup.js: Rollup.js es un bundler (empaquetador) de JavaScript que se utiliza para combinar y empacar módulos de código en un único archivo optimizado para su implementación en un navegador. A diferencia de otros bundlers como Webpack, Rollup.js se centra en la creación de bibliotecas o módulos independientes, generando un resultado más ligero y optimizado.
 
-* Path: En el contexto del desarrollo de software, los "paths" se refieren a las rutas o ubicaciones de archivos en un sistema de archivos. Los paths son utilizados para identificar y acceder a archivos o directorios específicos en un sistema. Se especifican utilizando una combinación de carpetas y nombres de archivos que conforman una ruta única.
+* Back-End con Ruby on Rails: Ruby on Rails, comúnmente conocido como Rails, es un popular framework de desarrollo web escrito en el lenguaje de programación Ruby. Rails sigue el patrón de diseño MVC (Modelo-Vista-Controlador) y permite a los desarrolladores construir aplicaciones web de manera eficiente y rápida. Ruby on Rails se utiliza en el desarrollo de back-end para crear la lógica del servidor y gestionar la interacción con la base de datos, proporcionando una estructura sólida y convenciones claras para el desarrollo ágil de aplicaciones web.
 
-* Endpoint: En el contexto de las aplicaciones web y las APIs, los "endpoints" se refieren a las URL o rutas específicas a las que se puede acceder en un servidor para realizar operaciones o recuperar datos. Cada endpoint se asocia con una acción o funcionalidad particular, y al acceder a un endpoint a través de una solicitud HTTP, se realiza la operación correspondiente en el servidor.
-
-* Adapter: En el desarrollo de software, un "adapter" es un patrón de diseño que permite la interoperabilidad entre diferentes interfaces o componentes. Actúa como un puente entre dos interfaces incompatibles, permitiendo que trabajen juntas sin necesidad de modificar el código fuente original. Los adapters son útiles cuando se necesita integrar sistemas o componentes existentes en un nuevo entorno o contexto.
-
-* Services: En el contexto del desarrollo de software, los "services" son componentes o clases que encapsulan la lógica de negocio y se utilizan para realizar operaciones específicas. Los servicios pueden realizar tareas como el acceso a bases de datos, la comunicación con APIs externas, el procesamiento de datos o cualquier otra funcionalidad relacionada con la lógica de negocio de una aplicación.
-
-* Controllers: En el desarrollo de aplicaciones web, los "controllers" son componentes que se utilizan para manejar las solicitudes entrantes y coordinar las respuestas correspondientes. Los controllers reciben solicitudes HTTP, interactúan con los servicios y manipulan los datos necesarios para generar una respuesta adecuada.
-
-* Middleware: El "middleware" es un concepto utilizado en el desarrollo de software que se refiere a una capa de software que se coloca entre el cliente y el servidor para realizar tareas específicas. El middleware puede interceptar y procesar solicitudes, modificar datos, agregar funcionalidad adicional o realizar cualquier otra tarea necesaria antes de que la solicitud llegue al servidor o antes de que la respuesta se envíe al cliente.
+* C# y .NET: C# (C Sharp) es un lenguaje de programación orientado a objetos desarrollado por Microsoft. Es ampliamente utilizado en el desarrollo de aplicaciones de escritorio y aplicaciones web utilizando el framework .NET. C# proporciona características poderosas y una sintaxis elegante, y es compatible con una amplia variedad de aplicaciones en el ecosistema de Microsoft. .NET es un conjunto de tecnologías de desarrollo de software que incluye el Common Language Runtime (CLR) y una biblioteca de clases, y permite a los desarrolladores crear aplicaciones en varios lenguajes, incluido C#.
 
 _____________________________________________________________________________________
 
@@ -412,13 +413,13 @@ ________________________________________________________________________________
 
 ### Enlaces de Interés
 
-[Developer Roadmaps](https://roadmap.sh/)                                                        
-[Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)                                          
-[Spring.io](https://spring.io/)                            
-[Node.js](https://nodejs.org)                            
-[React](https://react.dev/)                            
-[Vue.js](https://vuejs.org/)                            
-[Angular](https://angular.io/)                            
+* [Developer Roadmaps](https://roadmap.sh/)                                                        
+* [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)                                          
+* [Spring.io](https://spring.io/)                            
+* [Node.js](https://nodejs.org)                            
+* [React](https://react.dev/)                            
+* [Vue.js](https://vuejs.org/)                            
+* [Angular](https://angular.io/)                            
 
 _____________________________________________________________________________________
 
