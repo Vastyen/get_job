@@ -22,7 +22,7 @@ Este documento te brinda una base de conocimientos, pero el verdadero crecimient
 
 _____________________________________________________________________________________
 
-### Herramientas
+### Herramientas de Desarrollo
 
 Las herramientas de desarrollo son aplicaciones o programas que ayudan a los desarrolladores a escribir, depurar, probar y desplegar software de manera más eficiente. Son importantes de aprender porque aumentan la productividad, facilitan la depuración y pruebas, permiten la colaboración en equipo, ayudan en el mantenimiento y escalabilidad del software, y mantienen a los desarrolladores actualizados con las últimas tecnologías y tendencias. En resumen, aprender a utilizar estas herramientas es esencial para desarrollar software de calidad y ser competente en el campo de la programación. Este es un listado de herramientas que necesitarás aprender para poder conseguir (y/o que utilizarás) tu primer trabajo como desarrollador:
 
@@ -52,7 +52,7 @@ Las herramientas de desarrollo son aplicaciones o programas que ayudan a los des
 
 _____________________________________________________________________________________
 
-### Metodología Ágile
+### Metodología Agile
 
 La metodología ágil es un enfoque de gestión de proyectos y desarrollo de software que se basa en la adaptabilidad, la colaboración y la entrega iterativa e incremental. A diferencia de los enfoques tradicionales de gestión de proyectos, que se centran en la planificación detallada y la ejecución secuencial, el enfoque ágil busca responder de manera flexible a los cambios y priorizar la entrega de valor de manera rápida y constante.
 
