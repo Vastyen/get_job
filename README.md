@@ -1,4 +1,4 @@
-# Cómo Conseguir Trabajo como Desarrollador de Software
+# Cómo conseguir trabajo como desarrollador 
 
 En un mundo cada vez más impulsado por la tecnología, la demanda de profesionales en el campo del desarrollo de software continúa en constante crecimiento.
 
