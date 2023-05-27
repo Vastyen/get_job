@@ -96,13 +96,7 @@ Las buenas prácticas son un conjunto de enfoques, metodologías y técnicas rec
 
 * Optimización y Rendimiento: Optimizar el código y los recursos para mejorar el rendimiento y la eficiencia del software. Esto implica identificar y resolver cuellos de botella, minimizar la cantidad de llamadas de red y utilizar algoritmos y estructuras de datos eficientes.
 
-* Ingeniería de Software: La ingeniería de software es una disciplina que se ocupa de aplicar principios y metodologías de ingeniería en el desarrollo, mantenimiento y evolución de software de calidad. Se basa en la aplicación de conocimientos técnicos y científicos, así como en enfoques sistemáticos, para planificar, diseñar, implementar y probar sistemas de software.
-
-La ingeniería de software implica el uso de técnicas y herramientas para abordar los desafíos asociados con el desarrollo de software, como la gestión de requisitos, el diseño de arquitectura, la codificación, las pruebas, la gestión de proyectos y la garantía de calidad. También se enfoca en la gestión del ciclo de vida del software, que incluye la planificación, el seguimiento, el control y el mantenimiento continuo de los sistemas de software.
-
-Los ingenieros de software aplican diferentes metodologías y enfoques, como el desarrollo ágil, el desarrollo en cascada o el enfoque en espiral, según las necesidades del proyecto y los requisitos del cliente. Además, se utilizan prácticas como la modularización, la reutilización de código, la documentación, la colaboración en equipo y el aseguramiento de la calidad para garantizar la entrega de software funcional, confiable y eficiente.
-
-La ingeniería de software es esencial en el desarrollo de aplicaciones y sistemas de software complejos y escalables. Contribuye a mejorar la productividad, la eficiencia y la calidad del software, así como a minimizar los riesgos y los costos asociados con su desarrollo. Además, busca promover la colaboración efectiva entre los miembros del equipo de desarrollo y garantizar la satisfacción del cliente al cumplir con sus requisitos y expectativas.
+* Ingeniería de Software: La ingeniería de software es una disciplina que se ocupa de aplicar principios y metodologías de ingeniería en el desarrollo, mantenimiento y evolución de software de calidad. Se basa en la aplicación de conocimientos técnicos y científicos, así como en enfoques sistemáticos, para planificar, diseñar, implementar y probar sistemas de software. La ingeniería de software implica el uso de técnicas y herramientas para abordar los desafíos asociados con el desarrollo de software, como la gestión de requisitos, el diseño de arquitectura, la codificación, las pruebas, la gestión de proyectos y la garantía de calidad. También se enfoca en la gestión del ciclo de vida del software, que incluye la planificación, el seguimiento, el control y el mantenimiento continuo de los sistemas de software. Los ingenieros de software aplican diferentes metodologías y enfoques, como el desarrollo ágil, el desarrollo en cascada o el enfoque en espiral, según las necesidades del proyecto y los requisitos del cliente. Además, se utilizan prácticas como la modularización, la reutilización de código, la documentación, la colaboración en equipo y el aseguramiento de la calidad para garantizar la entrega de software funcional, confiable y eficiente.
 
 * Patrones de Diseño: Los patrones de diseño son soluciones probadas y documentadas para problemas comunes en el diseño de software. Estos patrones proporcionan un enfoque estructurado y reutilizable para resolver situaciones recurrentes. Algunos ejemplos populares de patrones de diseño incluyen el patrón Singleton, el patrón Observer y el patrón Factory. Los patrones de diseño ayudan a mejorar la modularidad, la flexibilidad y la mantenibilidad del código.
 
@@ -206,6 +200,8 @@ A continuación se mencionan algunas de las arquitecturas más comunes, y cada u
 _____________________________________________________________________________________
 
 ### Necesitas Aprender
+
+Como desarrollador de software, existen varios puntos indispensables que debes comprender o al menos tener conocimiento sobre su funcionamiento. 
 
 * Trabajo en Equipo: El trabajo en equipo se refiere a la colaboración y cooperación de varias personas para lograr un objetivo común. Implica la comunicación efectiva, la coordinación de tareas y la distribución equitativa de responsabilidades, con el fin de maximizar la eficiencia y alcanzar mejores resultados.
 
@@ -311,6 +307,8 @@ Si bien no es imprescindible dominar todos los aspectos del desarrollo de softwa
 * Nexus: Nexus es una herramienta de gestión de artefactos utilizada en el desarrollo de software. Permite almacenar y administrar artefactos binarios, como bibliotecas, dependencias y componentes de software, y proporciona una forma eficiente de compartir, distribuir y reutilizar estos artefactos en proyectos de desarrollo de software.
 
 * Back-End con Python: Python es un lenguaje de programación versátil y ampliamente utilizado que es conocido por su simplicidad y legibilidad. En el contexto del desarrollo de back-end, Python se utiliza para construir la lógica y la funcionalidad del servidor de una aplicación web. Proporciona una amplia gama de bibliotecas y marcos populares, como Django y Flask, que simplifican el desarrollo y permiten crear aplicaciones web robustas y escalables.
+
+* PIP: Es la herramienta estándar de Python para instalar y administrar paquetes de software. Permite a los desarrolladores descargar e instalar fácilmente paquetes y módulos de Python desde un repositorio en línea llamado PyPI. Con PIP, puedes instalar, actualizar y desinstalar paquetes, así como gestionar las dependencias de tu proyecto de manera eficiente. Es una herramienta esencial para la gestión de paquetes y la creación de entornos de desarrollo en Python.
 
 * React Native: React Native es un marco de desarrollo de aplicaciones móviles multiplataforma creado por Facebook. Permite a los desarrolladores construir aplicaciones móviles nativas utilizando JavaScript y React, lo que significa que se puede escribir código una vez y ejecutarlo en múltiples plataformas, como iOS y Android. React Native utiliza componentes reutilizables y ofrece un alto rendimiento al aprovechar las capacidades nativas del dispositivo.
 
