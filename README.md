@@ -411,7 +411,7 @@ Recuerda que una buena entrevista no solo se trata de responder preguntas técni
 
 _____________________________________________________________________________________
 
-### En Resumen
+### Resumen
 
 El campo del desarrollo de software ofrece un mundo de oportunidades, pero alcanzar el éxito requiere más que simplemente adquirir conocimientos teóricos. Se necesita compromiso, práctica constante y una actitud de aprendizaje continuo. Es esencial mantenerse actualizado en un campo en constante evolución y estar dispuesto a explorar nuevas tecnologías y enfoques. La dedicación y la experiencia práctica son clave para destacar en el mercado laboral y en los procesos de selección. Aprovecha las oportunidades de aprendizaje, trabaja en proyectos reales y nunca dejes de mejorar tus habilidades. Ser un buen desarrollador implica ir más allá de la teoría y estar dispuesto a enfrentar desafíos, aprender de tus errores y crecer constantemente. Con la combinación adecuada de conocimiento, experiencia y actitud, puedes prosperar en el campo del desarrollo de software y alcanzar tus metas profesionales.
 
