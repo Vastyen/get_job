@@ -1,4 +1,4 @@
-# Cómo conseguir trabajo como desarrollador 
+# Cómo Conseguir Trabajo como Desarrollador de Software
 
 ### Índice
 
