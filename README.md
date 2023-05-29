@@ -9,7 +9,7 @@
 * [Front-End](#Front-End)                                                      
 * [Back-End](#Back-End)                                                      
 * [DevOps](#DevOps)                             
-* [Arquitecturas-de-Desarrollo-de-Software](#Arquitecturas-de-Desarrollo-de-Software)                         
+* [Arquitecturas de Desarrollo de Software](#Arquitecturas-de-Desarrollo-de-Software)                         
 * [Necesitas Aprender](#Necesitas-Aprender)                                 
 * [Deberías Aprender](#Deberías-Aprender)                                 
 * [Podrías Aprender](#Podrías-Aprender)                                 
