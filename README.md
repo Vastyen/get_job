@@ -1,5 +1,13 @@
 # Cómo conseguir trabajo como desarrollador 
 
+Índice: 
+
+[Introducción](#Herramientas de Desarrollo)
+[Introducción](#Herramientas-de-Desarrollo)
+
+
+
+
 En un mundo cada vez más impulsado por la tecnología, la demanda de profesionales en el campo del desarrollo de software continúa en constante crecimiento.
 
 A lo largo de este documento, se analizarán diversas estrategias y consideraciones clave para aquellos que deseen ingresar al mercado laboral como desarrolladores de software. Se abordará desde la importancia de adquirir las habilidades y conocimientos necesarios, hasta cómo destacar en procesos de selección y entrevistas.
