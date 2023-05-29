@@ -1,10 +1,10 @@
 # Cómo conseguir trabajo como desarrollador 
 
-Índice: 
+### Índice
 
-[Herramientas de Desarrollo](#Herramientas-de-Desarrollo)
-[Metodología Agile](#Metodología-Agile)
-[Buenas Prácticas de Desarrollo de Software](#Buenas-Prácticas-de-Desarrollo-de-Software)
+[Herramientas de Desarrollo](#Herramientas-de-Desarrollo)                             
+[Metodología Agile](#Metodología-Agile)                                                      
+[Buenas Prácticas de Desarrollo de Software](#Buenas-Prácticas-de-Desarrollo-de-Software)                                                                                 
 
 
 
